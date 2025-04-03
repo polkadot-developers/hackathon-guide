@@ -16,7 +16,7 @@ Developers can follow different paths to build applications and core blockchain 
 
 The Polkadot ecosystem provides multiple development pathways:
 
-![Development Pathways](https://gist.github.com/user-attachments/assets/5bb1e1c3-daf7-422a-b503-782642ad97d8)
+<img width="1109" alt="image" src="https://github.com/user-attachments/assets/5c5bf50a-1906-4f04-9478-0d3bcc70649b" />
 
 ## 🚀 Smart Contract Development
 
