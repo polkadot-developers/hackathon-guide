@@ -6,7 +6,7 @@ Welcome to the **Polkadot Hackathon Survival Guide**! This resource is your go-t
 
 Whether you're a **blockchain pro** or just starting with **Polkadot**, this guide has all the essential info, tips, and resources to help you shine. ✨
 
-From setting up your **development environment** to **presenting your project**, we’ve got you covered. Our main focus is **smart contract development**, but we also provide guidance for **parachain development**. 
+From setting up your **development environment** to **presenting your project**, we’ve got you covered. The focus of this guide is **smart contract development** and bootstrapping Polkadot Hub launch, but it also provides guidance for **parachain runtime development**. 
 
 Good luck, and **happy hacking!** 🚀
 
@@ -20,7 +20,7 @@ The Polkadot ecosystem provides multiple development pathways:
 
 ## 🚀 Smart Contract Development
 
-Polkadot enables **smart contract deployment** via **PolkaVM**. This allows devs to use familiar **Ethereum tools** and **libraries** while leveraging Polkadot’s robust ecosystem. ✅
+Polkadot will enable **smart contract deployment** via **PolkaVM**. This allows devs to use familiar **Ethereum tools** and **libraries** while leveraging Polkadot’s robust ecosystem. **PolkaVM** is live on the Polkadot testnet Westend. ✅
 
 ### 📚 Development Environments
 
@@ -169,5 +169,6 @@ The Polkadot SDK provides several tools and libraries to facilitate testing at v
 
 Here are some additional resources that can help you during the hackathon:
 
+- [**Polkadot Open Source Stack**](https://wiki.polkadot.network/build/build-open-source/) 🌟 - a list of open-source tools, libraries, and frameworks that were funded by [Web3 Foundation grants program](https://grants.web3.foundation/) and the Polkadot treasury 
 - [**Awesome DOT Repository**](https://github.com/haquefardeen/awesome-dot) 📚 - a list of resources and projects of the Polkadot and Kusama ecosystem
 - [**FRAME pallets**](https://github.com/paritytech/polkadot-sdk/tree/master/substrate/frame) 🧱 - a collection of pre-built and well-tested modules that can be easily integrated into your custom parachain
