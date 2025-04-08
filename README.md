@@ -72,6 +72,10 @@ Need **testnet tokens**? Get some from the [**Polkadot Faucet**](https://faucet.
 
 > **Note:** Use **Westend** network & select **AssetHub** chain!
 
+### 🔎 Hub Explorer
+
+[Blockscout Explorer for Westend Hub](https://blockscout-asset-hub.parity-chains-scw.parity.io/)
+
 ### 🏆 Starter Templates
 
 Jumpstart your **smart contract dApp** with these templates:
