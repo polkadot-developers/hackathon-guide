@@ -176,3 +176,5 @@ Here are some additional resources that can help you during the hackathon:
 - [**Polkadot Open Source Stack**](https://wiki.polkadot.network/build/build-open-source/) 🌟 - a list of open-source tools, libraries, and frameworks that were funded by [Web3 Foundation grants program](https://grants.web3.foundation/) and the Polkadot treasury 
 - [**Awesome DOT Repository**](https://github.com/haquefardeen/awesome-dot) 📚 - a list of resources and projects of the Polkadot and Kusama ecosystem
 - [**FRAME pallets**](https://github.com/paritytech/polkadot-sdk/tree/master/substrate/frame) 🧱 - a collection of pre-built and well-tested modules that can be easily integrated into your custom parachain
+- [**Smart Contracts on the Polkadot Hub**](https://www.youtube.com/watch?v=TGgpG1jPxeE) 🎥 – a workshop from the Polkadot Scalability Hackathon showcasing how to deploy and interact with Solidity contracts on the Polkadot Hub using PolkaVM
+
