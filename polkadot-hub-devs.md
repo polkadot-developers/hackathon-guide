@@ -40,6 +40,8 @@ Here you can find some useful tutorials and resources to help you get started wi
 
 - 🛠️ [**Create a dApp with Ethers.js**](https://papermoonio.github.io/polkadot-mkdocs/tutorials/smart-contracts/launch-your-first-project/create-dapp-ethers-js/) - a tutorial on creating a simple dApp using the Ethers.js library
 
+- 🎥 [**Deploy Rust and Solidity contracts**](https://youtu.be/TGgpG1jPxeE?t=2749) 🎥 – a workshop showcasing how to deploy and interact with Solidity and Rust contracts on the Polkadot Hub
+
 ### 🔑 How to Connect to Polkadot Hub
 
 You can use any **Ethereum-compatible wallet** wallet to connect to Polkadot Hub.
@@ -61,6 +63,8 @@ Need **testnet tokens**? Get some from the [**Polkadot Faucet**](https://faucet.
 Jumpstart your **smart contract dApp** with these templates:
 
 - [**create-polkadot-dapp**](https://www.npmjs.com/package/create-polkadot-dapp?activeTab=readme) - a scaffolding tool to generate project boilerplates. Explore the `react-solidity` template located in the `templates` folder which comes pre-configured with **React, Tailwind CSS, and Ethers.js** for frontend interaction with your smart contracts
+
+- [**rust-contract-template**](https://github.com/paritytech/rust-contract-template/) - a template for writing Rust contracts designed to compile to PolkaVM.
 
 ### 🧙 Alternative Smart Contract Languages
 
