@@ -52,6 +52,8 @@ Learn how Polkadot SDK’s FRAME framework simplifies blockchain development wit
 
 - [**Parachain Maintenance**](https://docs.polkadot.com/develop/parachains/maintenance/)
 
+- [**FRAME pallets**](https://github.com/paritytech/polkadot-sdk/tree/master/substrate/frame)
+
 ## 🧰 Polkadot Toolkit
 
 ### 💡 API Libraries
