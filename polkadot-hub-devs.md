@@ -40,7 +40,7 @@ Here you can find some useful tutorials and resources to help you get started wi
 
 - 🛠️ [**Create a dApp with Ethers.js**](https://papermoonio.github.io/polkadot-mkdocs/tutorials/smart-contracts/launch-your-first-project/create-dapp-ethers-js/) - a tutorial on creating a simple dApp using the Ethers.js library
 
-- 🎥 [**Deploy Rust and Solidity contracts**](https://youtu.be/TGgpG1jPxeE?t=2749) 🎥 – a workshop showcasing how to deploy and interact with Solidity and Rust contracts on the Polkadot Hub
+- 🎥 [**Deploy Rust and Solidity contracts**](https://youtu.be/TGgpG1jPxeE?t=2749) – a workshop showcasing how to deploy and interact with Solidity and Rust contracts on the Polkadot Hub
 
 ### 🔑 How to Connect to Polkadot Hub
 
