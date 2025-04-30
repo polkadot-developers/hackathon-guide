@@ -1,18 +1,18 @@
-## 🌍 Parachain Development
+# 🌍 Parachain Development
 
 The [**Polkadot SDK**](https://github.com/paritytech/polkadot-sdk/tree/polkadot-stable2412) is a powerful and versatile developer kit designed to facilitate building **custom blockchains**, **parachains**, **generalized rollups**, and **more**.
 
-### 💾 Installation
+## 💾 Installation
 
 Follow the [**Install Polkadot SDK Dependencies**](https://docs.polkadot.com/develop/parachains/install-polkadot-sdk/) guide.
 
-### 📚 Getting Started
+## 📚 Getting Started
 
 The Parachain **Zero To Hero Tutorials** provide developers with a series of step-by-step guides to **building, testing, and deploying** custom pallets and runtimes using the Polkadot SDK. These tutorials are designed to help you gain hands-on experience and understand the core concepts of parachain development.
 
 - 🚀 [**Parachain Zero To Hero Tutorials**](https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/zero-to-hero/)
 
-### 🌟 Parachain Templates
+## 🌟 Parachain Templates
 
 Using **pre-built templates** is an efficient way to begin building a custom blockchain. Templates provide a foundational setup with pre-configured modules, letting developers avoid starting from scratch and instead focus on customization.
 
@@ -27,16 +27,16 @@ Within the Polkadot SDK, the following **templates** are available to get you st
 In addition, several **external templates** offer unique features and can align with specific use cases or developer familiarity:
 
 - [**`OpenZeppelin`**](https://github.com/OpenZeppelin/polkadot-runtime-templates/tree/main) - offers two flexible starting points:
-    - The [`generic-runtime-template`](https://github.com/OpenZeppelin/polkadot-runtime-templates/tree/main/generic-template) provides a minimal setup with essential pallets and secure defaults, creating a reliable foundation for custom blockchain development
-    - The [`evm-runtime-template`](https://github.com/OpenZeppelin/polkadot-runtime-templates/tree/main/evm-template) enables EVM compatibility, allowing developers to migrate Solidity contracts and EVM-based dApps. This template is ideal for Ethereum developers looking to leverage Substrate's capabilities
+  - The [`generic-runtime-template`](https://github.com/OpenZeppelin/polkadot-runtime-templates/tree/main/generic-template) provides a minimal setup with essential pallets and secure defaults, creating a reliable foundation for custom blockchain development
+  - The [`evm-runtime-template`](https://github.com/OpenZeppelin/polkadot-runtime-templates/tree/main/evm-template) enables EVM compatibility, allowing developers to migrate Solidity contracts and EVM-based dApps. This template is ideal for Ethereum developers looking to leverage Substrate's capabilities
 
 - [**`Tanssi`**](https://github.com/moondance-labs/tanssi/tree/master/container-chains/runtime-templates) - provides developers with pre-built templates that can help accelerate the process of creating appchain
 
-- [**`Pop Network`**](https://learn.onpop.io/appchains/pop-cli/new#templates) - designed with user-friendliness in mind, Pop Network offers an approachable starting point for new developers, with a simple CLI interface for creating appchains 
+- [**`Pop Network`**](https://learn.onpop.io/appchains/pop-cli/new#templates) - designed with user-friendliness in mind, Pop Network offers an approachable starting point for new developers, with a simple CLI interface for creating appchains
 
 Choosing a suitable template depends on your project’s **unique requirements, level of customization, and integration needs**. Starting from a template **speeds up development and lets you focus on implementing your chain’s unique features** rather than the foundational blockchain setup.
 
-### ⚙️ How to Build a Custom Parachain
+## ⚙️ How to Build a Custom Parachain
 
 Learn how Polkadot SDK’s FRAME framework simplifies blockchain development with modular pallets and support libraries for efficient runtime design.
 
@@ -54,9 +54,9 @@ Learn how Polkadot SDK’s FRAME framework simplifies blockchain development wit
 
 - [**FRAME pallets**](https://github.com/paritytech/polkadot-sdk/tree/master/substrate/frame)
 
-## 🧰 Polkadot Toolkit
+# 🧰 Polkadot Toolkit
 
-### 💡 API Libraries
+## 💡 API Libraries
 
 To **interact** with Polkadot SDK based blockchains, you can use the following **API libraries**:
 
@@ -66,7 +66,7 @@ To **interact** with Polkadot SDK based blockchains, you can use the following *
 - [**Subxt**](https://docs.polkadot.com/develop/toolkit/api-libraries/subxt/) - a Rust library designed to interact with Polkadot SDK-based blockchains. It provides a type-safe interface for submitting transactions, querying on-chain state, and performing other blockchain interactions
 - [**Sidecar REST API**](https://docs.polkadot.com/develop/toolkit/api-libraries/sidecar/) -  a service that provides a REST interface for interacting with Polkadot SDK-based blockchains
 
-### 🔌 Integrations
+## 🔌 Integrations
 
 Polkadot’s ecosystem offers a variety of **integrations** designed to enhance **dApp functionality, improve data management, and bridge the gap between on-chain and off-chain systems**.
 
@@ -74,7 +74,7 @@ Polkadot’s ecosystem offers a variety of **integrations** designed to enhance 
 - [**Indexers**](https://docs.polkadot.com/develop/toolkit/integrations/indexers/)
 - [**Oracles**](https://docs.polkadot.com/develop/toolkit/integrations/oracles/)
 
-### 🛠️ Testing
+## 🛠️ Testing
 
 The Polkadot SDK provides several tools and libraries to facilitate testing at various levels:
 

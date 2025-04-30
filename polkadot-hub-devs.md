@@ -1,8 +1,8 @@
-## 🚀 Smart Contract Development
+# 🚀 Smart Contract Development
 
 Polkadot will enable **smart contract deployment** via **PolkaVM**. This allows devs to use familiar **Ethereum tools** and **libraries** while leveraging Polkadot’s robust ecosystem. **PolkaVM** is live on the Polkadot testnet Westend. ✅
 
-### 📚 Development Environments
+## 📚 Development Environments
 
 There are multiple development environments already available for Polkadot smart contract development. Here are some of the most popular ones:
 
@@ -10,7 +10,7 @@ There are multiple development environments already available for Polkadot smart
 
 - ⚒️ [**Hardhat**](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/dev-environments/hardhat/) - a popular Ethereum development environment that can be used for Polkadot smart contract development with the help of custom plugins
 
-### 👨‍💻 Contract Interaction Libraries
+## 👨‍💻 Contract Interaction Libraries
 
 Several libraries can be used to interact with smart contracts deployed on Polkadot:
 
@@ -24,7 +24,7 @@ Several libraries can be used to interact with smart contracts deployed on Polka
 
 - 🧙 [**Wagmi**](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/libraries/wagmi/)
 
-### 📚 Tutorials and Guides
+## 📚 Tutorials and Guides
 
 Here you can find some useful tutorials and resources to help you get started with smart contract development on Polkadot:
 
@@ -42,23 +42,23 @@ Here you can find some useful tutorials and resources to help you get started wi
 
 - 🎥 [**Deploy Rust and Solidity contracts**](https://youtu.be/TGgpG1jPxeE?t=2749) – a workshop showcasing how to deploy and interact with Solidity and Rust contracts on the Polkadot Hub
 
-### 🔑 How to Connect to Polkadot Hub
+## 🔑 How to Connect to Polkadot Hub
 
 You can use any **Ethereum-compatible wallet** wallet to connect to Polkadot Hub.
 
 For example, you can use [MetaMask](https://metamask.io/) and connect it to Polkadot Hub by following the [Connect your Wallet](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/connect-to-asset-hub/#connect-your-wallet) guide.
 
-### 💧 Polkadot Faucet
+## 💧 Polkadot Faucet
 
 Need **testnet tokens**? Get some from the [**Polkadot Faucet**](https://faucet.polkadot.io/westend?parachain=1000) 💧
 
 > **Note:** Use **Westend** network & select **AssetHub** chain!
 
-### 🔎 Hub Explorer
+## 🔎 Hub Explorer
 
 [Blockscout Explorer for Westend Hub](https://blockscout-asset-hub.parity-chains-scw.parity.io/)
 
-### 🏆 Starter Templates
+## 🏆 Starter Templates
 
 Jumpstart your **smart contract dApp** with these templates:
 
@@ -66,7 +66,7 @@ Jumpstart your **smart contract dApp** with these templates:
 
 - [**rust-contract-template**](https://github.com/paritytech/rust-contract-template/) - a template for writing Rust contracts designed to compile to PolkaVM.
 
-### 🧙 Alternative Smart Contract Languages
+## 🧙 Alternative Smart Contract Languages
 
 Besides **Solidity**, you can also use **Rust** to write smart contracts for Polkadot. The **ink!** library is a popular choice for Rust-based smart contract development.
 
