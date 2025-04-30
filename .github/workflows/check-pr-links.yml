@@ -57,6 +57,7 @@ jobs:
           args: |
             --no-progress
             --include-fragments
+            --verbose
             .
 
       - name: Provide helpful failure message
