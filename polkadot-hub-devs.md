@@ -1,6 +1,6 @@
 ## 🚀 Smart Contract Development
 
-Polkadot will enable **smart contract deployment** via **PolkaVM**. This allows devs to use familiar **Ethereum tools** and **libraries** while leveraging Polkadot’s robust ecosystem. **PolkaVM** is live on the Polkadot testnet Westend. ✅
+Polkadot enables **smart contract deployment** via **PolkaVM**. This allows using familiar **Ethereum tools** and **libraries** while leveraging Polkadot’s robust ecosystem. **PolkaVM** is live on the Polkadot testnet Westend. ✅
 
 ### 📚 Development Environments
 
