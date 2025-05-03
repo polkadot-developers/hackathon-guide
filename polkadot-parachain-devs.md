@@ -30,7 +30,7 @@ In addition, several **external templates** offer unique features and can align 
     - The [`generic-runtime-template`](https://github.com/OpenZeppelin/polkadot-runtime-templates/tree/main/generic-template) provides a minimal setup with essential pallets and secure defaults, creating a reliable foundation for custom blockchain development
     - The [`evm-runtime-template`](https://github.com/OpenZeppelin/polkadot-runtime-templates/tree/main/evm-template) enables EVM compatibility, allowing developers to migrate Solidity contracts and EVM-based dApps. This template is ideal for Ethereum developers looking to leverage Substrate's capabilities
 
-- [**`Tanssi`**](https://github.com/moondance-labs/tanssi/tree/master/container-chains/runtime-templates) - provides developers with pre-built templates that can help accelerate the process of creating appchain
+- [**`Tanssi`**](https://github.com/moondance-labs/tanssi/tree/master?tab=readme-ov-file#container-chain-templates) - provides developers with pre-built templates that can help accelerate the process of creating appchain
 
 - [**`Pop Network`**](https://learn.onpop.io/appchains/pop-cli/new#templates) - designed with user-friendliness in mind, Pop Network offers an approachable starting point for new developers, with a simple CLI interface for creating appchains 
 
