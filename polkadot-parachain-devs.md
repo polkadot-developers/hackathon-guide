@@ -1,6 +1,6 @@
 # 🌍 Parachain Development
 
-The [**Polkadot SDK**](https://github.com/paritytech/polkadot-sdk/tree/polkadot-stable2412) is a powerful and versatile developer kit designed to facilitate building **custom blockchains**, **parachains**, **generalized rollups**, and **more**.
+The [**Polkadot SDK**](https://github.com/paritytech/polkadot-sdk/releases) is a powerful and versatile developer kit designed to facilitate building **custom blockchains**, **parachains**, **generalized rollups**, and **more**.
 
 ## 💾 Installation
 
