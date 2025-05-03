@@ -16,9 +16,10 @@ The Polkadot ecosystem provides multiple development pathways:
 
 <img width="1109" alt="image" src="https://github.com/user-attachments/assets/5c5bf50a-1906-4f04-9478-0d3bcc70649b" />
 
-👉 For builders looking to deploy smart contract based applications to Polkadot, head straight to the [resource page for Polkadot Hub developers](./polkadot-hub-devs.md)
 
-👉 For builders looking to create custom blockchains with the Polkadot SDK, check out the dedicated [resource for parachain developers](./polkadot-parachain-devs.md).
+- 👉 For builders looking to deploy smart contract based applications to Polkadot, head straight to the [resource page for Polkadot Hub developers](./polkadot-hub-devs.md)
+
+- 👉 For builders looking to create custom blockchains with the Polkadot SDK, check out the dedicated [resource for parachain developers](./polkadot-parachain-devs.md).
 
 Good luck, and **happy hacking!** 🚀
 
@@ -26,5 +27,5 @@ Good luck, and **happy hacking!** 🚀
 
 Here are some additional resources that can help you during the hackathon:
 
-- [**Polkadot Open Source Stack**](https://wiki.polkadot.network/build/build-open-source/) 🌟 - a list of open-source tools, libraries, and frameworks that were funded by [Web3 Foundation grants program](https://grants.web3.foundation/) and the Polkadot treasury
+- [**Polkadot Open Source Stack**](https://wiki.polkadot.network/general/build-open-source/) 🌟 - a list of open-source tools, libraries, and frameworks that were funded by [Web3 Foundation grants program](https://grants.web3.foundation/) and the Polkadot treasury 
 - [**Awesome DOT Repository**](https://github.com/haquefardeen/awesome-dot) 📚 - a list of resources and projects of the Polkadot and Kusama ecosystem
