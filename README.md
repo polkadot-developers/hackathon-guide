@@ -2,15 +2,15 @@
 
 ## 👋 Introduction
 
-Welcome to the **Polkadot Hackathon Survival Guide**! This resource is your go-to companion for navigating the world of **Polkadot development** during the hackathon.
+Welcome to the **Polkadot Hackathon Survival Guide**! This resource is your go-to companion for navigating the world of **Polkadot development** during the hackathon. 
 
 Whether you're a **blockchain pro** or just starting with **Polkadot**, this guide has all the essential info, tips, and resources to help you shine. ✨
 
-From setting up your **development environment** to **presenting your project**, we’ve got you covered.
+From setting up your **development environment** to **presenting your project**, we’ve got you covered. 
 
 ## 🌟 Development Pathways
 
-Developers can follow different paths to build applications and core blockchain functionality. Each pathway fits different **project types** and **skill levels**, all contributing to the **broader Polkadot ecosystem**.
+Developers can follow different paths to build applications and core blockchain functionality. Each pathway fits different **project types** and **skill levels**, all contributing to the **broader Polkadot ecosystem**. 
 
 The Polkadot ecosystem provides multiple development pathways:
 
