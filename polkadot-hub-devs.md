@@ -40,7 +40,16 @@ Here you can find some useful tutorials and resources to help you get started wi
 
 - 🛠️ [**Create a dApp with Ethers.js**](https://papermoonio.github.io/polkadot-mkdocs/tutorials/smart-contracts/launch-your-first-project/create-dapp-ethers-js/) - a tutorial on creating a simple dApp using the Ethers.js library
 
-- 🎥 [**Deploy Rust and Solidity contracts**](https://youtu.be/TGgpG1jPxeE?t=2749) – a workshop showcasing how to deploy and interact with Solidity and Rust contracts on the Polkadot Hub
+- 🎥 [**Deploy Rust and Solidity contracts**](https://youtu.be/TGgpG1jPxeE) – a workshop showcasing how to deploy and interact with Solidity and Rust contracts on the Polkadot Hub
+  - [46:27](https://youtu.be/TGgpG1jPxeE?t=2848): Deploy Solidity contract using Remix
+  - [48:10](https://youtu.be/TGgpG1jPxeE?t=2890): Call Rust contract from Solidity contract (on a local testnet)
+  - [48:27](https://youtu.be/TGgpG1jPxeE?t=2907): Run node with RPC exposed
+  - [49:11](https://youtu.be/TGgpG1jPxeE?t=2951): Inspect Solidity contract
+  - [50:26](https://youtu.be/TGgpG1jPxeE?t=3026): Run the commands `make` [..etc] to deploy the Rust contract
+  - [52:26](https://youtu.be/TGgpG1jPxeE?t=3146): Run the commands to build and deploy the Solidity contract
+  - [53:58](https://youtu.be/TGgpG1jPxeE?t=3238): See the gas estimates of both
+  - [54:53](https://youtu.be/TGgpG1jPxeE?t=3293): Call Solidity contract that calls the Rust contract
+  - [57:45](https://youtu.be/TGgpG1jPxeE?t=3465): Use polkatool to dissassemble the contract
 
 ### 🔑 How to Connect to Polkadot Hub
 
