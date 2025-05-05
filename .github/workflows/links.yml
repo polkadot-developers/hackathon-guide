@@ -19,11 +19,28 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: false
+          args: |
+            --no-progress
+            --include-fragments
+            .
 
-      - name: Create Issue From File
-        if: steps.lychee.outputs.exit_code != 0
+      - name: Find Link Checker Issue
+        uses: micalevisk/last-issue-action@v2
+        id: link-checker-issue
+        with:
+          state: open
+          labels: |
+            link-checker
+  
+      - name: Update Issue
+        if: steps.lychee.outputs.exit_code != 0 && steps.link-checker-issue.outputs.has-found == 'false'
         uses: peter-evans/create-issue-from-file@v5
         with:
-          title: Link Checker Report
+          title: Broken links detected 🔗
+          # Update an existing issue if one was found (issue-number),
+          # otherwise an empty value creates a new issue:
+          issue-number: "${{ steps.link-checker-issue.outputs.issue_number }}"
           content-filepath: ./lychee/out.md
-          labels: report, automated issue
+          token: ${{secrets.GITHUB_TOKEN}}
+          labels: |
+            link-checker
