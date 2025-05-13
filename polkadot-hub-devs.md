@@ -64,7 +64,7 @@ Jumpstart your **smart contract dApp** with these templates:
 
 - [**create-polkadot-dapp**](https://www.npmjs.com/package/create-polkadot-dapp?activeTab=readme) - a scaffolding tool to generate project boilerplates. Explore the `react-solidity` template located in the `templates` folder which comes pre-configured with **React, Tailwind CSS, and Ethers.js** for frontend interaction with your smart contracts
 
-- [**rust-contract-template**](https://github.com/paritytech/rust-contract-template/) - a template for writing Rust contracts designed to compile to PolkaVM.
+- [**hardhat-polkadot-example**](https://github.com/UtkarshBhardwaj007/hardhat-polkadot-example) - a demo for how to use Hardhat with Polkadot.
 
 ### 🧙 Alternative Smart Contract Languages
 
