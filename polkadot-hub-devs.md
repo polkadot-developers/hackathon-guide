@@ -2,6 +2,8 @@
 
 Polkadot enables **smart contract deployment** via **PolkaVM**. This allows using familiar **Ethereum tools** and **libraries** while leveraging Polkadot’s robust ecosystem. **PolkaVM** is live on the Polkadot testnet Westend. ✅
 
+*Refer to the [**known issues**](https://docs.google.com/document/d/1j5hnQZRqlbVagW28dC24OVAF8uRih5jWubBxy5PlMYc/edit?usp=sharing) document if you're running into issues deploying contracts or using any of the tools below.*
+
 ### 📚 Development Environments
 
 There are multiple development environments already available for Polkadot smart contract development. Here are some of the most popular ones:
@@ -73,7 +75,7 @@ Jumpstart your **smart contract dApp** with these templates:
 
 - [**create-polkadot-dapp**](https://www.npmjs.com/package/create-polkadot-dapp?activeTab=readme) - a scaffolding tool to generate project boilerplates. Explore the `react-solidity` template located in the `templates` folder which comes pre-configured with **React, Tailwind CSS, and Ethers.js** for frontend interaction with your smart contracts
 
-- [**rust-contract-template**](https://github.com/paritytech/rust-contract-template/) - a template for writing Rust contracts designed to compile to PolkaVM.
+- [**hardhat-polkadot-example**](https://github.com/UtkarshBhardwaj007/hardhat-polkadot-example) - a demo for how to use Hardhat with Polkadot.
 
 ### 🧙 Alternative Smart Contract Languages
 
