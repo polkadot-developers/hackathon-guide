@@ -24,3 +24,5 @@ Looking to get funding post-hackathon? Here's a list of different grant opportun
 - [W3F Grants](https://grants.web3.foundation/docs/Process/how-to-apply): up to >$100k in funding
 - [Opensource grants](https://github.com/PolkadotOpenSourceGrants): up to $30k in funding
 - [Fast grants](https://github.com/Polkadot-Fast-Grants/apply): up to $10k in funding
+
+You can find more information on opportunities on the Web3 Foundation [Funding and Support](https://web3.foundation/funding-support) page.
