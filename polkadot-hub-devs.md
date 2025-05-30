@@ -57,7 +57,7 @@ Here you can find some useful tutorials and resources to help you get started wi
 
 You can use any **Ethereum-compatible wallet** wallet to connect to Polkadot Hub.
 
-For example, you can use [MetaMask](https://metamask.io/) and connect it to Polkadot Hub by following the [Connect your Wallet](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/connect-to-asset-hub/#connect-your-wallet) guide.
+For example, you can use [MetaMask](https://metamask.io/) and connect it to Polkadot Hub by following the [Connect your Wallet](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/connect-to-polkadot/) guide.
 
 ### 💧 Polkadot Faucet
 
