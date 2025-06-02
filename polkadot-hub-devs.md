@@ -48,11 +48,13 @@ Here you can find some useful tutorials and resources to help you get started wi
 
 You can use any **Ethereum-compatible wallet** wallet to connect to Polkadot Hub Testnet. Follow the [Connect your Wallet](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/connect-to-polkadot#connect-your-wallet) guide to connect using MetaMask. We also recommend using [Talisman](https://talisman.xyz/), which is built for both Polkadot and Ethereum.
 
-> Testnet details:
-> * Network name: Passet Hub
-> * Chain ID: 420420421
-> * RPC URL: https://testnet-passet-hub-eth-rpc.polkadot.io
-> * Block Explorer URL: https://blockscout-passet-hub.parity-testnet.parity.io/ 
+```
+Testnet details:
+* Network name: Passet Hub
+* Chain ID: 420420421
+* RPC URL: https://testnet-passet-hub-eth-rpc.polkadot.io
+* Block Explorer URL: https://blockscout-passet-hub.parity-testnet.parity.io/
+```
 
 
 ### 💧 Polkadot Faucet
