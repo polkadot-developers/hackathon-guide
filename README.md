@@ -26,3 +26,5 @@ Looking to get funding post-hackathon? Here's a list of different grant opportun
 - [Fast grants](https://github.com/Polkadot-Fast-Grants/apply): up to $10k in funding
 
 You can find more information on opportunities on the Web3 Foundation [Funding and Support](https://web3.foundation/funding-support) page.
+
+To continue growing with Polkadot, apply to participate in the next [Polkadot Blockchain Academy Campus](https://polkadot.academy/pba-campus/) dApp cohort!
