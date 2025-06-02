@@ -1,6 +1,6 @@
 ## 🚀 Smart Contract Development
 
-Polkadot enables **smart contract deployment** via **PolkaVM**. This allows using familiar **Ethereum tools** and **libraries** while leveraging Polkadot’s robust ecosystem. **PolkaVM** is live on the Polkadot testnet Westend. ✅
+Polkadot enables **smart contract deployment** via **PolkaVM**. This allows using familiar **Ethereum tools** and **libraries** while leveraging Polkadot’s robust ecosystem. **PolkaVM** is live on Passet Hub, the Polkadot community testnet. ✅
 
 *Refer to the [**known issues**](https://docs.google.com/document/d/1j5hnQZRqlbVagW28dC24OVAF8uRih5jWubBxy5PlMYc/edit?usp=sharing) document if you're running into issues deploying contracts or using any of the tools below. If you have a new bug or problem, please raise an issue in the [Contracts Bug tracker](https://github.com/paritytech/contract-issues) on Github.*
 
@@ -42,32 +42,27 @@ Here you can find some useful tutorials and resources to help you get started wi
 
 - 🛠️ [**Create a dApp with Ethers.js**](https://papermoonio.github.io/polkadot-mkdocs/tutorials/smart-contracts/launch-your-first-project/create-dapp-ethers-js/) - a tutorial on creating a simple dApp using the Ethers.js library
 
-- 🎥 [**Deploy Rust and Solidity contracts**](https://youtu.be/TGgpG1jPxeE) – a workshop showcasing how to deploy and interact with Solidity and Rust contracts on the Polkadot Hub
-  - [46:27](https://youtu.be/TGgpG1jPxeE?t=2848): Deploy Solidity contract using Remix
-  - [48:10](https://youtu.be/TGgpG1jPxeE?t=2890): Call Rust contract from Solidity contract (on a local testnet)
-  - [48:27](https://youtu.be/TGgpG1jPxeE?t=2907): Run node with RPC exposed
-  - [49:11](https://youtu.be/TGgpG1jPxeE?t=2951): Inspect Solidity contract
-  - [50:26](https://youtu.be/TGgpG1jPxeE?t=3026): Run the commands `make` [..etc] to deploy the Rust contract
-  - [52:26](https://youtu.be/TGgpG1jPxeE?t=3146): Run the commands to build and deploy the Solidity contract
-  - [53:58](https://youtu.be/TGgpG1jPxeE?t=3238): See the gas estimates of both
-  - [54:53](https://youtu.be/TGgpG1jPxeE?t=3293): Call Solidity contract that calls the Rust contract
-  - [57:45](https://youtu.be/TGgpG1jPxeE?t=3465): Use polkatool to dissassemble the contract
+- 🎥 [**Deploy Rust and Solidity contracts**](https://youtu.be/TGgpG1jPxeE) – a workshop showcasing how to deploy and interact with Solidity and Rust contracts on the Polkadot Hub.
 
-### 🔑 How to Connect to Polkadot Hub
+### 🔑 How to Connect to Polkadot Hub Testnet
 
-You can use any **Ethereum-compatible wallet** wallet to connect to Polkadot Hub.
+You can use any **Ethereum-compatible wallet** wallet to connect to Polkadot Hub Testnet. Follow the [Connect your Wallet](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/connect-to-polkadot#connect-your-wallet) guide to connect using MetaMask. We also recommend using [Talisman](https://talisman.xyz/), which is built for both Polkadot and Ethereum.
 
-For example, you can use [MetaMask](https://metamask.io/) and connect it to Polkadot Hub by following the [Connect your Wallet](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/connect-to-polkadot/) guide.
+```
+Testnet details:
+* Network name: Passet Hub
+* Chain ID: 420420421
+* RPC URL: https://testnet-passet-hub-eth-rpc.polkadot.io
+* Block Explorer URL: https://blockscout-passet-hub.parity-testnet.parity.io/
+```
+
 
 ### 💧 Polkadot Faucet
 
-Need **testnet tokens**? Get some from the [**Polkadot Faucet**](https://faucet.polkadot.io/westend?parachain=1000) 💧
+Need **testnet tokens**? Get some from the [**Testnet Faucet**](https://faucet.polkadot.io/?parachain=1111) 💧
 
-> **Note:** Use **Westend** network & select **AssetHub** chain!
+> **Note:** Make sure you've selected the **Passet Hub** chain on the **Paseo** network!
 
-### 🔎 Hub Explorer
-
-[Blockscout Explorer for Westend Hub](https://blockscout-asset-hub.parity-chains-scw.parity.io/)
 
 ### 🏆 Starter Templates
 
@@ -79,6 +74,4 @@ Jumpstart your **smart contract dApp** with these templates:
 
 ### 🧙 Alternative Smart Contract Languages
 
-Besides **Solidity**, you can also use **Rust** to write smart contracts for Polkadot. The **ink!** library is a popular choice for Rust-based smart contract development.
-
-- 🔗 [**ink! Docs**](https://use.ink/6.x) (compatible with Westend/Kusama Asset Hub from v6 )
+Besides **Solidity**, you can also write smart contracts in Rust using **ink!** &mdash; the go-to language for Rust-based smart contract development on Polkadot. Check out the [**ink! Docs**](https://use.ink/6.x) (compatible with PolkaVM from v6 ) to get started.
