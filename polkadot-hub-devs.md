@@ -46,7 +46,7 @@ Here you can find some useful tutorials and resources to help you get started wi
 
 ### 🔑 How to Connect to Polkadot Hub Testnet
 
-You can use any **Ethereum-compatible wallet** wallet to connect to Polkadot Hub Testnet. Follow the [Connect your Wallet](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/connect-to-asset-hub/#connect-your-wallet) guide to connect using MetaMask. We also reccommend using [Talisman](https://talisman.xyz/) which is built for both Polkadot and Ethereum.
+You can use any **Ethereum-compatible wallet** wallet to connect to Polkadot Hub Testnet. Follow the [Connect your Wallet](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/connect-to-polkadot#connect-your-wallet) guide to connect using MetaMask. We also recommend using [Talisman](https://talisman.xyz/), which is built for both Polkadot and Ethereum.
 
 > Testnet details:
 > * Network name: Passet Hub
