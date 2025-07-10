@@ -1,4 +1,4 @@
-## 🚀 Smart Contract Development
+## 🚀 Smart Contract Development on Polkadot
 
 Polkadot enables **smart contract deployment** via **PolkaVM**. This allows using familiar **Ethereum tools** and **libraries** while leveraging Polkadot’s robust ecosystem. **PolkaVM** is live on Passet Hub, the Polkadot community testnet. ✅
 
@@ -6,7 +6,7 @@ Please provide feedback on your experience deploying smart contracts on Polkadot
 
 *Refer to the [**known issues**](https://docs.google.com/document/d/1j5hnQZRqlbVagW28dC24OVAF8uRih5jWubBxy5PlMYc/edit?usp=sharing) document if you're running into issues deploying contracts or using any of the tools below. If you have a new bug or problem, please raise an issue in the [Contracts Bug tracker](https://github.com/paritytech/contract-issues) on Github.*
 
-### 📚 Development Environments
+### 📚 Solidity Development Environments
 
 There are multiple development environments already available for Polkadot smart contract development. Here are some of the most popular ones:
 
@@ -14,9 +14,15 @@ There are multiple development environments already available for Polkadot smart
 
 - ⚒️ [**Hardhat**](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/dev-environments/hardhat/) - a popular Ethereum development environment that can be used for Polkadot smart contract development with the help of custom plugins
 
+### 🦀 Rust Contracts
+
+Besides **Solidity**, you can also write smart contracts in Rust using **ink!** &mdash; the go-to language for Rust-based smart contract development on Polkadot. Check out the [**ink! Docs**](https://use.ink/6.x) (compatible with PolkaVM from v6 ) to get started.
+
 ### 👨‍💻 Contract Interaction Libraries
 
-Several libraries can be used to interact with smart contracts deployed on Polkadot:
+Several libraries can be used to interact with smart contracts deployed on Polkadot for both Solidity and Rust.
+
+**Solidity**
 
 - 🔵 [**Ethers.js**](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/libraries/ethers-js/)
 
@@ -27,6 +33,10 @@ Several libraries can be used to interact with smart contracts deployed on Polka
 - 🐍 [**Web3.py**](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/libraries/web3-py/)
 
 - 🧙 [**Wagmi**](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/libraries/wagmi/)
+
+**ink!**
+
+- 🥸 [**PAPI**](https://papi.how/ink)
 
 ### 📚 Tutorials and Guides
 
@@ -73,7 +83,3 @@ Jumpstart your **smart contract dApp** with these templates:
 - [**create-polkadot-dapp**](https://www.npmjs.com/package/create-polkadot-dapp?activeTab=readme) - a scaffolding tool to generate project boilerplates. Explore the `react-solidity` template located in the `templates` folder which comes pre-configured with **React, Tailwind CSS, and Ethers.js** for frontend interaction with your smart contracts
 
 - [**hardhat-polkadot-example**](https://github.com/UtkarshBhardwaj007/hardhat-polkadot-example) - a demo for how to use Hardhat with Polkadot.
-
-### 🧙 Alternative Smart Contract Languages
-
-Besides **Solidity**, you can also write smart contracts in Rust using **ink!** &mdash; the go-to language for Rust-based smart contract development on Polkadot. Check out the [**ink! Docs**](https://use.ink/6.x) (compatible with PolkaVM from v6 ) to get started.
