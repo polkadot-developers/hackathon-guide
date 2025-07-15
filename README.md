@@ -11,6 +11,17 @@ From setting up your **development environment** to **presenting your project**,
 
 - 👉 For builders looking to create custom blockchains with the Polkadot SDK, check out the dedicated [resource for parachain developers](./polkadot-parachain-devs.md).
 
+## 🤝 Get Support
+
+Need help during the hackathon? The Polkadot community offers multiple support channels to assist you:
+
+- **Technical questions** and development guidance
+- **Community forums** for discussions and networking  
+- **Developer chat channels** for real-time help
+- **Documentation** and troubleshooting resources
+
+For comprehensive information about all available support channels in Polkadot, refer to the [Get Support page](https://docs.polkadot.com/get-support/).
+
 ## 🎓 More Resources
 
 Here are some additional resources that can help you during the hackathon:
