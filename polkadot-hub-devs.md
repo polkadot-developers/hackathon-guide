@@ -85,8 +85,8 @@ Jumpstart your **smart contract dApp** with these templates:
 - [**hardhat-polkadot-example**](https://github.com/UtkarshBhardwaj007/hardhat-polkadot-example) - a demo for how to use Hardhat with Polkadot.
 
 
-### LLM configuration helper
+### Vibe coding with AI: LLM configuration helper
 
-- If using LLMs, remember to direct them to use the most [up-to-date documentation](https://docs.polkadot.com/).
+- If using AI tools like LLMs, remember to direct them to use the most [up-to-date documentation](https://docs.polkadot.com/).
 
 - Especially if you are using Claude, [this document](https://www.kusamahub.com/downloads/LLMCONTRACTS.md) contains configuration settings for using the testnet to deploy smart contracts, and we recommend informing your LLM to refer to it.  
