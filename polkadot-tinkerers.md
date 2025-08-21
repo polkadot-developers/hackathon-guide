@@ -49,35 +49,34 @@ You don’t need to know everything — let AI do some heavy lifting:
 
 ## 🚀 Approaches for Tinkerers  
 
-- **Start with APIs** — fetch balances, transfers, staking info, and remix them.  
-- **Visualize data** — build dashboards or creative art from chain telemetry.  
-- **Improve UX** — prototype wallet flows or simplify onboarding.  
-- **Hack with vibes** — memes, mashups, or quirky experiments welcome!  
+- **Start with APIs** — fetch balances, transfers, staking info, and display them in a presentable way.
+- **Visualize data** — build dashboards, graphs, creative art from chain telemetry and data.
+- **Improve UX** — prototype wallet flows, simplify onboarding, or provide unique recovery methods for wallets.  
+- **Hack with vibes** — memes, mashups, or unique experiments welcome!  
 - **Spin up an appchain** — use Tanssi to launch a chain tied to your own app.  
 - **Test interoperability** — use Bagpipes to design and simulate XCM flows without code.  
 
 ## 💡 Example Project Ideas  
 
 - 🔗 Cross-chain NFT gallery using PAPI  
-- 📊 Validator analytics dashboard with SubQuery  
-- 🎮 On-chain randomness mini-game  
-- 🖼️ Data art from block history  
-- 🔥 A custom appchain (via Tanssi) powering a unique hackathon app  
-- 🌐 A no-code cross-chain XCM flow demo using Bagpipes  
+- 📊 Validator analytics dashboard with SubQuery 
+- 🧪 Experiment with creating no-code tools for the Polkadot ecosystem. 
+- 🖼️ Data art from block and transaction history.
+- 🔥 A custom appchain (via Tanssi) powering a unique hackathon app.  
+- 🌐 A no-code cross-chain XCM flow demo using Bagpipes.  
 
 ## 🧩 Combo Tinkering Examples  
 
 These show how beginners can **mix and match tools**:  
 
-1. **Wallet + API + Visualization**  
-   - Use **SubWallet** to hold test tokens.  
+1. **API + Visualization**  
    - Fetch balances and transfers via **DeDot** or **PAPI**.  
    - Pipe the data into a simple **D3.js chart** to show how account balances evolve over time.  
 
-2. **Appchain + Cross-chain Flow**  
+2. **Custom Appchain with Tanssi + UI**  
    - Deploy a small **appchain on Tanssi** for your app.  
-   - Use **Bagpipes** to create a no-code XCM flow that lets tokens move between your appchain and a parachain.  
-   - Display the transfers in a fun dashboard using **SubQuery** for indexing.  
+   - Take advantage of their Network modules feature to create or [mix-and-match modules](https://docs.tanssi.network/learn/framework/modules/)
+   - Create a simple web app to display data from your appchain
 
 ## 📚 Resources  
 
