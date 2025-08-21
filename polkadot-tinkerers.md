@@ -5,11 +5,11 @@ The **Tinkerers Track** is for developers with little or no prior blockchain/Pol
 
 You can build:  
 
-- 🌉 **Cross-chain apps**  
-- 📊 **Data crunching & visualizations**  
-- 🎨 **UX improvements**  
-- 🧪 **Proof of Concepts**  
-- ✨ **Vibe-coded projects**  
+- 🌉 Cross-chain apps  
+- 📊 Data crunching & visualizations  
+- 🎨 UX improvements  
+- 🧪 Proof of Concepts  
+- ✨ Vibe-coded projects  
 
 ## 🛠️ Getting Started  
 
@@ -25,14 +25,15 @@ You don’t need to know everything — let AI do some heavy lifting:
 - [**Polkadot API (PAPI)**](https://papi.how/) — modern TypeScript API for Polkadot.  
 - [**DeDot**](https://docs.polkadot.com/develop/toolkit/api-libraries/dedot) — lightweight TypeScript library for Polkadot SDK chains, great for quick prototypes.  
 - [**Sidecar**](https://paritytech.github.io/substrate-api-sidecar/) — REST service for blockchain data.  
-- [**Subxt**](https://github.com/paritytech/subxt) — Rust client for Polkadot SDK–based chains.  
+- [**Subxt**](https://github.com/paritytech/subxt) — Rust client for Polkadot SDK–based chains.
+- [**Paraspell**](https://paraspell.github.io/docs/)  - Library which makes working with XCM and interoperability on Polkadot easy.
 
 ### Data & Indexing  
 - [**SubQuery**](https://subquery.network/) — index and query blockchain data.  
 - [**Polkaholic**](https://polkaholic.io/) — cross-chain explorer & API.  
 - [**DotLake**](https://wiki.polkadot.scr/docs/learn-data-lake) — open data lake for analytics.  
 
-### Wallets & Accounts  
+### Wallets
 - [**Talisman Wallet**](https://www.talisman.xyz/)  
 - [**SubWallet**](https://subwallet.app/)  
 - [**Polkadot Vault**](https://signer.parity.io/)  
@@ -45,7 +46,20 @@ You don’t need to know everything — let AI do some heavy lifting:
 
 ### UI Helpers  
 
-- [**Polkadot Telemetry**](https://telemetry.polkadot.io/) — real-time network visualization.  
+- [**Polkadot Telemetry**](https://telemetry.polkadot.io/) — real-time visualization of multiple networks.
+
+## 💻 Tinkering with Replit  
+
+If you’re new to coding, or just want to get a proof of concept running fast, [**Replit**](https://replit.com/) is a great place to tinker with creating applications on Polkadot. You don’t need to install anything locally: just open your browser, prompt replit (or use a template), and start experimenting.  
+
+You can use Replit to:  
+- Prototype UIs (React, Vue, or plain JS/HTML).  
+- Experiment with Polkadot APIs like **PAPI**, **DeDot**, or other libraries / tools that are mentioned.
+- Fetch and visualize on-chain data without worrying about setup.  
+
+ Replit has built-in **AI prompting**. You can paste in code snippets or ask it to use libraries like **PAPI**, **DeDot**, **Subxt**, **SubQuery**, or **Sidecar** directly in your project. This makes it much easier to get started, even if you don’t know the exact function calls.  
+
+👉 In other words: Replit is your **sandbox for Polkadot tinkering** — experiment quickly, share instantly, and learn by doing.    
 
 ## 🚀 Approaches for Tinkerers  
 
@@ -65,7 +79,7 @@ You don’t need to know everything — let AI do some heavy lifting:
 - 🔥 A custom appchain (via Tanssi) powering a unique hackathon app.  
 - 🌐 A no-code cross-chain XCM flow demo using Bagpipes.  
 
-## 🧩 Combo Tinkering Examples  
+## 🧩 Tinkering Examples  
 
 These show how beginners can **mix and match tools**:  
 
