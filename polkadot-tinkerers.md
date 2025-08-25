@@ -1,4 +1,3 @@
-
 The **Tinkerers Track** is for developers with little or no prior blockchain/Polkadot experience who want to experiment, explore, and build something fun during the hackathon.
 
 > 👉 This track is about **creativity, exploration, and fun** — just tinker and build!  
@@ -31,7 +30,7 @@ You don’t need to know everything — let AI do some heavy lifting:
 ### Data & Indexing  
 - [**SubQuery**](https://subquery.network/) — index and query blockchain data.  
 - [**Polkaholic**](https://polkaholic.io/) — cross-chain explorer & API.  
-- [**DotLake**](https://github.com/paritytech/dotlake-community) — a data ingestion pipeline for Substrate-based blockchains (like Polkadot), view it in action [here](https://data.parity.io/home).
+- [**DotLake**](https://github.com/paritytech/dotlake-community) — a data ingestion pipeline for Substrate-based blockchains (like Polkadot), view it in action [here](https://data.parity.io).
 
 ### Wallets
 - [**Talisman Wallet**](https://www.talisman.xyz/)  
@@ -47,6 +46,12 @@ You don’t need to know everything — let AI do some heavy lifting:
 ### UI Helpers  
 
 - [**Polkadot Telemetry**](https://telemetry.polkadot.io/) — real-time visualization of multiple networks.
+- 
+## 🎥 Video Resources
+
+**Polkadot Deep Dives** is a playlist of in-depth explorations into different FRAME pallets. These videos are brought to you by Parity’s Delivery Services team, where they dive deep into all things Polkadot development and ecosystem.
+
+- [Polkadot Developer Playlist: Deep Dives into FRAME Pallets, XCM, and Governance](https://www.youtube.com/playlist?list=PLOyWqupZ-WGsfnlpkk0KWX3uS4yg6ZztG)
 
 ## 💻 Tinkering with Replit  
 
@@ -92,7 +97,7 @@ These show how beginners can **mix and match tools**:
    - Take advantage of their Network modules feature to create or [mix-and-match modules](https://docs.tanssi.network/learn/framework/modules/)
    - Create a simple web app to display data from your appchain
 
-## 📚 Resources  
+## 📚 Other Resources  
 
 - [Polkadot Wiki](https://wiki.polkadot.network/)  
 - [Polkadot Forum](https://forum.polkadot.network/)  
