@@ -37,7 +37,6 @@ You don’t need to know everything — let AI do some heavy lifting:
 - [**Polkadot Vault**](https://signer.parity.io/)  
 
 ### Infrastructure  
-- [**Tanssi**](https://www.tanssi.network/) — deploy your own **appchain** quickly to pair with your hackathon project.  
   - Great for experimenting with custom logic or integrating your app with its own chain.  
   - Request free testnet tokens here to deploy: [Claim Dance Tokens](https://www.tanssi.network/claim-dance-tokens).  
 - [**Bagpipes**](https://alpha.bagpipes.io/) — no-code solution for building and testing **XCM/interoperability flows** across the Polkadot ecosystem.  
