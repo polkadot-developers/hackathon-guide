@@ -29,7 +29,6 @@ You don’t need to know everything — let AI do some heavy lifting:
 
 ### Data & Indexing  
 - [**SubQuery**](https://subquery.network/) — index and query blockchain data.  
-- [**Polkaholic**](https://polkaholic.io/) — cross-chain explorer & API.  
 - [**DotLake**](https://github.com/paritytech/dotlake-community) — a data ingestion pipeline for Substrate-based blockchains (like Polkadot), view it in action [here](https://data.parity.io).
 
 ### Wallets
