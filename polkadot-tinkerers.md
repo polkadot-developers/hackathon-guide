@@ -88,10 +88,6 @@ These show how beginners can **mix and match tools**:
    - Fetch balances and transfers via **DeDot** or **PAPI**.  
    - Pipe the data into a simple **D3.js chart** to show how account balances evolve over time.  
 
-2. **Custom Appchain with Tanssi + UI**  
-   - Deploy a small **appchain on Tanssi** for your app.  
-   - Take advantage of their Network modules feature to create or [mix-and-match modules](https://docs.tanssi.network/learn/framework/modules/)
-   - Create a simple web app to display data from your appchain
 
 ## 📚 Other Resources  
 
