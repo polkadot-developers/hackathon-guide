@@ -21,6 +21,7 @@ You don’t need to know everything — let AI do some heavy lifting:
 - **Query docs with AI**: Use an AI assistant to query [docs.polkadot.com](https://docs.polkadot.com/) directly — it saves time vs. searching manually.  
 
 ### APIs & SDKs  
+
 - [**Polkadot API (PAPI)**](https://papi.how/) — modern TypeScript API for Polkadot.  
 - [**DeDot**](https://docs.polkadot.com/develop/toolkit/api-libraries/dedot) — lightweight TypeScript library for Polkadot SDK chains, great for quick prototypes.  
 - [**Sidecar**](https://paritytech.github.io/substrate-api-sidecar/) — REST service for blockchain data.  
@@ -28,16 +29,21 @@ You don’t need to know everything — let AI do some heavy lifting:
 - [**Paraspell**](https://paraspell.github.io/docs/)  - Library which makes working with XCM and interoperability on Polkadot easy.
 
 ### Data & Indexing  
+
 - [**SubQuery**](https://subquery.network/) — index and query blockchain data.  
 - [**DotLake**](https://github.com/paritytech/dotlake-community) — a data ingestion pipeline for Substrate-based blockchains (like Polkadot), view it in action [here](https://data.parity.io).
 
 ### Wallets
+
+- [**Polkadot.js Extension**](https://polkadot.js.org/extension/)
 - [**Talisman Wallet**](https://www.talisman.xyz/)  
 - [**SubWallet**](https://subwallet.app/)  
 - [**Polkadot Vault**](https://signer.parity.io/)  
+- [**Nova Wallet**](https://novawallet.io/)
 
 ### Infrastructure  
-- [**Bagpipes**](https://alpha.bagpipes.io/) — no-code solution for building and testing **XCM/interoperability flows** across the Polkadot ecosystem.  
+
+- [**Pop! CLI**](https://onpop.io/) — is a developer platform for Polkadot that makes it easy to **build, test, and deploy** smart contracts or appchains with a streamlined CLI.
 
 ### UI Helpers  
 
@@ -69,16 +75,16 @@ You can use Replit to:
 - **Improve UX** — prototype wallet flows, simplify onboarding, or provide unique recovery methods for wallets.  
 - **Hack with vibes** — memes, mashups, or unique experiments welcome!  
 - **Spin up an appchain** — use Tanssi to launch a chain tied to your own app.  
-- **Test interoperability** — use Bagpipes to design and simulate XCM flows without code.  
 
-## 💡 Example Project Ideas  
+## 🌐 Out in the Wild - Deployed Examples
 
-- 🔗 Cross-chain NFT gallery using PAPI  
-- 📊 Validator analytics dashboard with SubQuery 
-- 🧪 Experiment with creating no-code tools for the Polkadot ecosystem. 
-- 🖼️ Data art from block and transaction history.
-- 🔥 A custom appchain (via Tanssi) powering a unique hackathon app.  
-- 🌐 A no-code cross-chain XCM flow demo using Bagpipes.  
+This section highlights **working examples** you can fork, get inspiration from, build on right away. Each entry links to a repo and (where available) a quick summary/tutorial to help you get started fast.  
+
+- **EduChain** → [GitHub Repo](https://github.com/w3f/educhain)  
+  *An example parachain developed by the TechEd team at W3F for education and credentialing, showing how the Polkadot SDK can power real-world solutions.*  
+
+- **create-polkadot-dapp** → [GitHub Repo](https://github.com/paritytech/create-polkadot-dapp)  
+  *A starter template for quickly scaffolding Polkadot dApps with minimal setup.*  
 
 ## 🧩 Tinkering Examples  
 
@@ -93,4 +99,4 @@ These show how beginners can **mix and match tools**:
 
 - [Polkadot Wiki](https://wiki.polkadot.network/)  
 - [Polkadot Forum](https://forum.polkadot.network/)  
-- [Polkadot SDK Docs](https://docs.polkadot.com/)  
+- [Polkadot SDK Docs](https://docs.polkadot.com/)
