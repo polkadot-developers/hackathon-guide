@@ -35,11 +35,11 @@ You don’t need to know everything — let AI do some heavy lifting:
 
 ### Wallets
 
-- [**Polkadot.js Extension**](https://polkadot.js.org/extension/)
 - [**Talisman Wallet**](https://www.talisman.xyz/)  
-- [**SubWallet**](https://subwallet.app/)  
-- [**Polkadot Vault**](https://signer.parity.io/)  
+- [**SubWallet**](https://subwallet.app/)
+- [**Polkadot.js Extension**](https://polkadot.js.org/extension/)
 - [**Nova Wallet**](https://novawallet.io/)
+- [**Polkadot Vault**](https://vault.novasama.io/)  
 
 ### Infrastructure  
 
