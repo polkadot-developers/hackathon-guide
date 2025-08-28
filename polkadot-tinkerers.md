@@ -24,7 +24,7 @@ You don’t need to know everything — let AI do some heavy lifting:
 
 - [**Polkadot API (PAPI)**](https://papi.how/) — modern TypeScript API for Polkadot.  
 - [**DeDot**](https://docs.polkadot.com/develop/toolkit/api-libraries/dedot) — lightweight TypeScript library for Polkadot SDK chains, great for quick prototypes.  
-- [**Sidecar**](https://paritytech.github.io/substrate-api-sidecar/) — REST service for blockchain data.  
+- [**Sidecar**](https://github.com/paritytech/substrate-api-sidecar) — REST service for blockchain data.  
 - [**Subxt**](https://github.com/paritytech/subxt) — Rust library to interact Polkadot SDK–based chains.
 - [**Paraspell**](https://paraspell.github.io/docs/)  - Library which makes working with XCM and interoperability on Polkadot easy.
 
