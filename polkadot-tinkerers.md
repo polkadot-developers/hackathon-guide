@@ -44,6 +44,7 @@ You don’t need to know everything — let AI do some heavy lifting:
 ### Infrastructure  
 
 - [**Pop! CLI**](https://onpop.io/) — is a developer platform for Polkadot that makes it easy to **build, test, and deploy** smart contracts or appchains with a streamlined CLI.
+- [**create-dot-app**](https://github.com/preschian/create-dot-app) — CLI tool to quickly scaffold Polkadot dApps with React/Vue frontends and PAPI/DeDot SDK integration.
 
 ### UI Helpers  
 
@@ -85,6 +86,9 @@ This section highlights **working examples** you can fork, get inspiration from,
 
 - **create-polkadot-dapp** → [GitHub Repo](https://github.com/paritytech/create-polkadot-dapp)  
   *A starter template for quickly scaffolding Polkadot dApps with minimal setup.*  
+
+- **create-dot-app** → [GitHub Repo](https://github.com/preschian/create-dot-app)  
+  *CLI tool for scaffolding Polkadot dApps with React/Vue frontends and PAPI/DeDot SDK integration. Supports multiple frameworks.*  
 
 ## 🧩 Tinkering Examples  
 
