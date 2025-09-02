@@ -87,9 +87,6 @@ This section highlights **working examples** you can fork, get inspiration from,
 - **create-polkadot-dapp** → [GitHub Repo](https://github.com/paritytech/create-polkadot-dapp)  
   *A starter template for quickly scaffolding Polkadot dApps with minimal setup.*  
 
-- **create-dot-app** → [GitHub Repo](https://github.com/preschian/create-dot-app)  
-  *CLI tool for scaffolding Polkadot dApps with React/Vue frontends and PAPI/DeDot SDK integration. Supports multiple frameworks.*  
-
 ## 🧩 Tinkering Examples  
 
 These show how beginners can **mix and match tools**:  
