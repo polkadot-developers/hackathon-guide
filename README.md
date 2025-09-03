@@ -10,7 +10,9 @@ From setting up your **development environment** to **presenting your project**,
 - 👉 For builders looking to deploy smart contract based applications to Polkadot, head straight to the [resource page for Polkadot Hub developers](./polkadot-hub-devs.md)
 
 - 👉 For builders looking to create custom blockchains with the Polkadot SDK, check out the dedicated [resource for parachain developers](./polkadot-parachain-devs.md).
-
+  
+- 👉 For tinkerers looking to explore what is possible, experiment and build something fun, have a look at the [resources page for Polkadot tinkerers](./polkadot-tinkerers.md).
+  
 ## 🤝 Get Support
 
 Need help during the hackathon? The Polkadot community offers multiple support channels to assist you:
