@@ -94,6 +94,10 @@ These show how beginners can **mix and match tools**:
 1. **API + Visualization**  
    - Fetch balances and transfers via **DeDot** or **PAPI**.  
    - Pipe the data into a simple **D3.js chart** to show how account balances evolve over time.  
+2. **Explore and use FRAME**
+   - Build a DAO without smart contracts just using the [Proxy pallet](https://www.youtube.com/watch?v=zzcIAjhbAF8).
+   - Use the [Scheduler pallet](https://www.youtube.com/watch?v=olcuZHb4u88) to build a dApp with cyclical actions.
+ 
 
 
 ## 📚 Other Resources  
