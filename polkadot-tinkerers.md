@@ -48,7 +48,8 @@ You don’t need to know everything — let AI do some heavy lifting:
 ### UI Helpers  
 
 - [**Polkadot Telemetry**](https://telemetry.polkadot.io/) — real-time visualization of multiple networks.
-- 
+- [**create-dot-app**](https://github.com/preschian/create-dot-app) — CLI to scaffold Polkadot dApps with multiple frameworks option and PAPI/DeDot. 
+
 ## 🎥 Video Resources
 
 **Polkadot Deep Dives** is a playlist of in-depth explorations into different FRAME pallets. These videos are brought to you by Parity’s Delivery Services team, where they dive deep into all things Polkadot development and ecosystem.
