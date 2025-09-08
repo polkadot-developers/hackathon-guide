@@ -13,6 +13,7 @@ There are multiple development environments already available for Polkadot smart
 - 🖥️ [**Polkadot Remix IDE**](https://docs.polkadot.com/develop/smart-contracts/dev-environments/remix/) - a web-based IDE that allows you to write, test, and deploy smart contracts directly in your browser. It's integrated with compatible chains: you can deploy right from the browser
 
 - ⚒️ [**Hardhat**](https://docs.polkadot.com/develop/smart-contracts/dev-environments/hardhat/) - a popular Ethereum development environment that can be used for Polkadot smart contract development with the help of custom plugins
+- 🤠 [**Foundry**](https://docs.polkadot.com/develop/smart-contracts/dev-environments/foundry/) - a smart contract development toolchain that manages your dependencies, compiles your project, runs tests, deploys, and lets you interact with thec ontracts.
 
 ### 🦀 Rust Contracts
 
