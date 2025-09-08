@@ -42,23 +42,23 @@ Several libraries can be used to interact with smart contracts deployed on Polka
 
 Here you can find some useful tutorials and resources to help you get started with smart contract development on Polkadot:
 
-- ✍️ [**Create a Smart Contract**](https://papermoonio.github.io/polkadot-mkdocs/tutorials/smart-contracts/launch-your-first-project/create-contracts/) - a step-by-step guide to creating your first smart contract on Polkadot
+- ✍️ [**Create a Smart Contract**](https://docs.polkadot.com/tutorials/smart-contracts/launch-your-first-project/create-contracts/) - a step-by-step guide to creating your first smart contract on Polkadot
 
-- ⚙️ [**Test and Deploy with Hardhat**](https://papermoonio.github.io/polkadot-mkdocs/tutorials/smart-contracts/launch-your-first-project/test-and-deploy-with-hardhat/) - a guide to testing and deploying your smart contract using Hardhat
+- ⚙️ [**Test and Deploy with Hardhat**](https://docs.polkadot.com/tutorials/smart-contracts/launch-your-first-project/test-and-deploy-with-hardhat/) - a guide to testing and deploying your smart contract using Hardhat
 
-- 🎨 [**Deploy a NFT**](https://papermoonio.github.io/polkadot-mkdocs/tutorials/smart-contracts/deploy-nft/) - a tutorial on deploying an NFT smart contract on Polkadot
+- 🎨 [**Deploy a NFT**](https://docs.polkadot.com/tutorials/smart-contracts/deploy-nft/) - a tutorial on deploying an NFT smart contract on Polkadot
 
-- 💰 [**Deploy an ERC-20**](https://papermoonio.github.io/polkadot-mkdocs/tutorials/smart-contracts/deploy-erc20/) - a tutorial on deploying an ERC-20 token smart contract on Polkadot
+- 💰 [**Deploy an ERC-20**](https://docs.polkadot.com/tutorials/smart-contracts/deploy-erc20/) - a tutorial on deploying an ERC-20 token smart contract on Polkadot
 
-- 🛠️ [**Create a dApp with Viem**](https://papermoonio.github.io/polkadot-mkdocs/tutorials/smart-contracts/launch-your-first-project/create-dapp-viem/) - a tutorial on creating a simple dApp using the Viem library
+- 🛠️ [**Create a dApp with Viem**](https://docs.polkadot.com/develop/smart-contracts/libraries/viem/) - a tutorial on creating a simple dApp using the Viem library
 
-- 🛠️ [**Create a dApp with Ethers.js**](https://papermoonio.github.io/polkadot-mkdocs/tutorials/smart-contracts/launch-your-first-project/create-dapp-ethers-js/) - a tutorial on creating a simple dApp using the Ethers.js library
+- 🛠️ [**Create a dApp with Ethers.js**](https://docs.polkadot.com/develop/smart-contracts/libraries/ethers-js/) - a tutorial on creating a simple dApp using the Ethers.js library
 
 - 🎥 [**Deploy Rust and Solidity contracts**](https://youtu.be/TGgpG1jPxeE) – a workshop showcasing how to deploy and interact with Solidity and Rust contracts on the Polkadot Hub.
 
 ### 🔑 How to Connect to Polkadot Hub Testnet
 
-You can use any **Ethereum-compatible wallet** wallet to connect to Polkadot Hub Testnet. Follow the [Connect your Wallet](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/connect-to-polkadot#connect-your-wallet) guide to connect using MetaMask. We also recommend using [Talisman](https://talisman.xyz/), which is built for both Polkadot and Ethereum.
+You can use any **Ethereum-compatible wallet** wallet to connect to Polkadot Hub Testnet. Follow the [Connect your Wallet](https://docs.polkadot.com/develop/smart-contracts/connect-to-polkadot/) guide to connect using MetaMask. We also recommend using [Talisman](https://talisman.xyz/), which is built for both Polkadot and Ethereum.
 
 ```
 Testnet details:
