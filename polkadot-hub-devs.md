@@ -10,9 +10,10 @@ Please provide **feedback** on your experience deploying smart contracts on Polk
 
 There are multiple development environments already available for Polkadot smart contract development. Here are some of the most popular ones:
 
-- 🖥️ [**Polkadot Remix IDE**](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/dev-environments/remix/) - a web-based IDE that allows you to write, test, and deploy smart contracts directly in your browser. It's integrated with compatible chains: you can deploy right from the browser
+- 🖥️ [**Polkadot Remix IDE**](https://docs.polkadot.com/develop/smart-contracts/dev-environments/remix/) - a web-based IDE that allows you to write, test, and deploy smart contracts directly in your browser. It's integrated with compatible chains: you can deploy right from the browser
 
-- ⚒️ [**Hardhat**](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/dev-environments/hardhat/) - a popular Ethereum development environment that can be used for Polkadot smart contract development with the help of custom plugins
+- ⚒️ [**Hardhat**](https://docs.polkadot.com/develop/smart-contracts/dev-environments/hardhat/) - a popular Ethereum development environment that can be used for Polkadot smart contract development with the help of custom plugins
+- 🤠 [**Foundry**](https://docs.polkadot.com/develop/smart-contracts/dev-environments/foundry/) - a smart contract development toolchain that manages your dependencies, compiles your project, runs tests, deploys, and lets you interact with your contracts.
 
 ### 🦀 Rust Contracts
 
@@ -24,15 +25,15 @@ Several libraries can be used to interact with smart contracts deployed on Polka
 
 **Solidity**
 
-- 🔵 [**Ethers.js**](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/libraries/ethers-js/)
+- 🔵 [**Ethers.js**](https://docs.polkadot.com/develop/smart-contracts/libraries/ethers-js/)
 
-- ⚡ [**viem**](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/libraries/viem/)
+- ⚡ [**viem**](https://docs.polkadot.com/develop/smart-contracts/libraries/viem/)
 
-- 🌐 [**Web3.js**](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/libraries/web3-js/)
+- 🌐 [**Web3.js**](https://docs.polkadot.com/develop/smart-contracts/libraries/web3-js/)
 
-- 🐍 [**Web3.py**](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/libraries/web3-py/)
+- 🐍 [**Web3.py**](https://docs.polkadot.com/develop/smart-contracts/libraries/web3-py/)
 
-- 🧙 [**Wagmi**](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/libraries/wagmi/)
+- 🧙 [**Wagmi**](https://docs.polkadot.com/develop/smart-contracts/libraries/wagmi/)
 
 **ink!**
 
@@ -50,9 +51,9 @@ Here you can find some useful tutorials and resources to help you get started wi
 
 - 💰 [**Deploy an ERC-20**](https://docs.polkadot.com/tutorials/smart-contracts/deploy-erc20/) - a tutorial on deploying an ERC-20 token smart contract on Polkadot
 
-- 🛠️ [**Create a dApp with Viem**](https://docs.polkadot.com/develop/smart-contracts/libraries/viem/) - a tutorial on creating a simple dApp using the Viem library
+- 🛠️ [**Create a dApp with Viem**](https://docs.polkadot.com/tutorials/smart-contracts/launch-your-first-project/create-dapp-viem/) - a tutorial on creating a simple dApp using the Viem library
 
-- 🛠️ [**Create a dApp with Ethers.js**](https://docs.polkadot.com/develop/smart-contracts/libraries/ethers-js/) - a tutorial on creating a simple dApp using the Ethers.js library
+- 🛠️ [**Create a dApp with Ethers.js**](https://docs.polkadot.com/tutorials/smart-contracts/launch-your-first-project/create-dapp-ethers-js/) - a tutorial on creating a simple dApp using the Ethers.js library
 
 - 🎥 [**Deploy Rust and Solidity contracts**](https://youtu.be/TGgpG1jPxeE) – a workshop showcasing how to deploy and interact with Solidity and Rust contracts on the Polkadot Hub.
 
