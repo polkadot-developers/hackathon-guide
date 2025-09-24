@@ -6,6 +6,16 @@ Please provide **feedback** on your experience deploying smart contracts on Polk
 
 *Refer to the [**known issues**](https://docs.google.com/document/d/1j5hnQZRqlbVagW28dC24OVAF8uRih5jWubBxy5PlMYc/edit?usp=sharing) document if you're running into issues deploying contracts or using any of the tools below. If you have a new bug or problem, please raise an issue in the [Contracts Bug tracker](https://github.com/paritytech/contract-issues) on Github.*
 
+### 🚀 Quick Start with DevContainers
+
+- To speed things up and have your "batteries included" dev environment, you can use [DevContainers](https://code.visualstudio.com/docs/devcontainers/containers). They are regularly maintained and tested by the ecosystem professionals. You can find the configuration for Polkadot smart contract development in the [smart-contracts-devcontainer](https://github.com/paritytech/smart-contracts-devcontainer) repository.
+- To use it, you need to have [Docker](https://www.docker.com/products/docker-desktop) or [Podman](https://podman.io/docs/installation) installed and running on your machine. You also need the Vscode extension for DevContainers. You can install it from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers).
+- Once Docker is running and the DevContainers extension is installed, simply create a new folder and run the following command to get started:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/paritytech/smart-contracts-devcontainer/main/.devcontainer/fetch-devcontainer.sh | bash -s --
+```
+
 ### 📚 Solidity Development Environments
 
 There are multiple development environments already available for Polkadot smart contract development. Here are some of the most popular ones:
