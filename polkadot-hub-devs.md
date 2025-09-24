@@ -8,7 +8,7 @@ Please provide **feedback** on your experience deploying smart contracts on Polk
 
 ### 🚀 Quick Start with DevContainers
 
-- To avoid setting up your local environment, you can use [DevContainers](https://code.visualstudio.com/docs/devcontainers/containers) to get started quickly. DevContainers are a convenient way to run a pre-configured development environment in a container. You can find the DevContainer configuration for Polkadot smart contract development in the [smart-contracts-devcontainer](https://github.com/paritytech/smart-contracts-devcontainer) repository.
+- To speed things up and have your "batteries included" dev environment, you can use [DevContainers](https://code.visualstudio.com/docs/devcontainers/containers). They are regularly maintained and tested by the ecosystem professionals. You can find the configuration for Polkadot smart contract development in the [smart-contracts-devcontainer](https://github.com/paritytech/smart-contracts-devcontainer) repository.
 - To use the DevContainer, you need to have Docker installed on your machine and running. You can download Docker from the [Docker website](https://www.docker.com/products/docker-desktop/). You also need the Vscode extension for DevContainers. You can install it from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers).
 - Once Docker is running and the DevContainers extension is installed, simply create a new folder and run the following command to get started:
 
