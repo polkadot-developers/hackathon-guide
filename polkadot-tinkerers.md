@@ -128,7 +128,7 @@ They typically feature wallet integration, real-time chain data display, and tra
 |---|---|---|---|---|---|---|
 | **Sidecar** | REST API for blockchain data | Need HTTP API access or integrating with non-blockchain systems | https://github.com/paritytech/substrate-api-sidecar | `docker compose` from repo | *(none yet — use curl scripts in repo)* | *(Add "try these 3 endpoints")* |
 | **DotLake (Community)** | Data analytics platform | Building dashboards and need historical data analysis | https://github.com/paritytech/dotlake-community |`docker compose` from repo| https://data.parity.io/home | *(n/a)* |
-| **SubQuery** | Blockchain indexer with GraphQL | Building activity feeds, notifications, or complex data queries | https://academy.subquery.network | [Polkadot SubQuery Starter](https://github.com/subquery/subql-starter/tree/main/Polkadot/Polkadot-starter) | [Running the Polkadot Multi chain Starter Project using SubQuery](https://www.youtube.com/watch?v=as2aUJLMlos)| [Polkadot SubQuery Quickstart](https://subquery.network/doc/indexer/quickstart/quickstart_chains/polkadot.html) |
+| **SubQuery** | Blockchain indexer with GraphQL | Building activity feeds, notifications, or complex data queries | https://academy.subquery.network | use the [SubQuery starter project](https://github.com/polkadot-developers/subquery-starter-example), or use the `npx @subql/cli init test --networkFamily Polkadot` command to bootstrap a project | [Running the Polkadot Multi chain Starter Project using SubQuery](https://www.youtube.com/watch?v=as2aUJLMlos)| [Polkadot SubQuery Quickstart](https://subquery.network/doc/indexer/quickstart/quickstart_chains/polkadot.html) |
 
 ### Infrastructure / Local chain deployments (optional for Tinkerers)
 
