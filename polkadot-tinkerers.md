@@ -14,7 +14,7 @@ You can build:
 
 ### Polkadot Solutions/Tooling Matrix
 
-Have an idea in mind? Cross-chain tool, a voting system or a verification solution? Check out our [solution matrix](https://hackmd.io/@-URYUB-DThCJz-bWaAXSfw/H1aOvxNneg) to find which tools/modules are available for your case!
+Have an idea in mind? Cross-chain tool, a voting system or a verification solution? Check out our [solution matrix](./tinkerer-materials/solution-matrix.md) to find which tools/modules are available for your case!
 
 ### 🤖 Using AI to Tinker Faster  
 
@@ -35,7 +35,7 @@ You don’t need to know everything — let AI do some heavy lifting:
 
 ### Hackathon Quickstarters
 
-Want a quickstart to your project? Look no further than our [hackathon quickstarter guide](https://hackmd.io/U5MYy8cXQ7SFtfxDsPgqSA), where you will find templates, tutorials, and documentation for the above SDKs.
+Want a quickstart to your project? Look no further than our [hackathon quickstarter guide](./tinkerer-materials/quickstarters.md), where you will find templates, tutorials, and documentation for the above SDKs.
 
 ### Data & Indexing  
 
