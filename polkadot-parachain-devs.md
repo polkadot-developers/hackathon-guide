@@ -12,6 +12,8 @@ The Parachain **Zero To Hero Tutorials** provide developers with a series of ste
 
 - 🚀 [**Parachain Zero To Hero Tutorials**](https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/zero-to-hero/)
 
+- ⚡️ [**Quickstart Parachain Development**](https://docs.polkadot.com/develop/toolkit/parachains/quickstart/)
+
 ### 🌟 Parachain Templates
 
 Using **pre-built templates** is an efficient way to begin building a custom blockchain. Templates provide a foundational setup with pre-configured modules, letting developers avoid starting from scratch and instead focus on customization.
@@ -32,7 +34,7 @@ In addition, several **external templates** offer unique features and can align 
 
 - [**`Tanssi`**](https://github.com/moondance-labs/tanssi/tree/master#container-chain-templates) - provides developers with pre-built templates that can help accelerate the process of creating appchain
 
-- [**`Pop Network`**](https://learn.onpop.io/appchains/pop-cli/new#templates) - designed with user-friendliness in mind, Pop Network offers an approachable starting point for new developers, with a simple CLI interface for creating appchains 
+- [**`Pop CLI`**](https://onpop.io/cli/) - an all-in-one CLI for Polkadot SDK chains. Scaffold from multiple template providers (`Pop`, `Parity`, `OpenZeppelin`), **build**, **run locally**  and **deploy to Paseo/Polkadot**. Check out the [Pop CLI Hackathon Guide](https://learn.onpop.io/welcome/hackathon-guide).
 
 Choosing a suitable template depends on your project’s **unique requirements, level of customization, and integration needs**. Starting from a template **speeds up development and lets you focus on implementing your chain’s unique features** rather than the foundational blockchain setup.
 
