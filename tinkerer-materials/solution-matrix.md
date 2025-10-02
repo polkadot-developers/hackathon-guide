@@ -1,6 +1,6 @@
 
 ## Legend
-- **FRAME pallets / SDK**: native Substrate modules or Polkadot SDK components you compose into a blockcain runtime (logic).
+- **FRAME pallets / SDK**: native Substrate modules or Polkadot SDK components you compose into a blockchain runtime (logic).
 - **Tools & services**: dev tooling, APIs, indexers, wallets, infra.
 - **Parachains / services**: ready and live chains which you can integrate and/or extend instead of building everything yourself.
 
