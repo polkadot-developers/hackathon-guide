@@ -31,7 +31,7 @@ They typically feature wallet integration, real-time chain data display, and tra
 | SDK | What it's for | When should I use this? | Docs (URL) | Starter / Template (URL) | Working Example(s)  | Tutorial(s)  |
 |---|---|---|---|---|---|---|
 | **Subxt** | Rust library for Polkadot chains | Building CLI tools, backends, or performance-critical applications | https://docs.rs/subxt/latest/subxt/book | [SubXT Boilerplate](https://github.com/CrackTheCode016/polkadot-subxt-boilerplate) | [EduNews SubXT](https://github.com/CrackTheCode016/edunews-subxt) |  |
-| **Polkadot SDK** | Framework for building blockchains | Creating your own blockchain, custom runtime logic, or parachain | https://docs.substrate.io/ | [Parachain Template](https://github.com/paritytech/polkadot-sdk/tree/master/templates/parachain) | [EduChain](https://github.com/w3f/educhain) |  |
+| **Polkadot SDK** | Framework for building blockchains | Creating your own blockchain, custom runtime logic, or parachain | https://docs.polkadot.com/ | [Parachain Template](https://github.com/paritytech/polkadot-sdk/tree/master/templates/parachain) | [EduChain](https://github.com/w3f/educhain) |  |
 
 ### REST / Data / Indexing
 
