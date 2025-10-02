@@ -51,7 +51,6 @@ Several libraries can be used to interact with smart contracts deployed on Polka
 
 - ⚒️ [**Pop CLI**](https://learn.onpop.io/welcome/hackathon-guide#contract-development)
 
-
 ### 📚 Tutorials and Guides
 
 Here you can find some useful tutorials and resources to help you get started with smart contract development on Polkadot:
