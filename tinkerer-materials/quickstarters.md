@@ -2,11 +2,10 @@
 
 Whether you're creating web applications, CLI tools, analytics dashboards, or entirely new blockchains, this section aims to provide the essential SDKs, templates, and examples to get you started quickly.
 
-- **TypeScript dApps** - Build web applications with libraries like PAPI and DeDot.
-- **Rust Applications** - Create high-performance tools and backends with `subxt`, or custom blockchain runtimes with the `polkadot-sdk`
-- **Data & Analytics** - Access blockchain data through REST APIs like Substrate Sidecar and build powerful dashboards with tools like Dotlake.
-- **Ready-to-use Templates** - Boilerplates and working examples to jumpstart development for the above!
-- **Quick Start Guides** - Get a basic Polkadot-based project up and running in minutes with step-by-step instructions
+- **TypeScript dApps** - Build web applications with libraries like [PAPI](#building-with-typescript-dapps) and [DeDot](#building-with-typescript-dapps).
+- **Rust Applications** - Create high-performance tools and backends with [`subxt`](#building-with-rust), or custom blockchain runtimes with the [`polkadot-sdk`](#building-with-rust)
+- **Data & Analytics** - Access blockchain data through REST APIs like [Substrate Sidecar](#rest--data--indexing) and build powerful dashboards with tools like [Dotlake](#rest--data--indexing).
+- **Ready-to-use Templates** - [Boilerplates](#boilerplates--examples) and working examples to jumpstart development for the above!
 
 Each section includes documentation links, starter templates, working examples, and notes on when to use each tool. Start with the technology stack that matches your project needs and experience level.
 
