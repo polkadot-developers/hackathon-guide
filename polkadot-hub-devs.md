@@ -49,6 +49,9 @@ Several libraries can be used to interact with smart contracts deployed on Polka
 
 - 🥸 [**PAPI**](https://papi.how/ink)
 
+- ⚒️ [**Pop CLI**](https://learn.onpop.io/welcome/hackathon-guide#contract-development)
+
+
 ### 📚 Tutorials and Guides
 
 Here you can find some useful tutorials and resources to help you get started with smart contract development on Polkadot:
@@ -66,6 +69,10 @@ Here you can find some useful tutorials and resources to help you get started wi
 - 🛠️ [**Create a dApp with Ethers.js**](https://docs.polkadot.com/develop/smart-contracts/libraries/ethers-js/) - a tutorial on creating a simple dApp using the Ethers.js library
 
 - 🎥 [**Deploy Rust and Solidity contracts**](https://youtu.be/TGgpG1jPxeE) – a workshop showcasing how to deploy and interact with Solidity and Rust contracts on the Polkadot Hub.
+
+- 🔄 [**ink! Ethereum Compatibility**](https://use.ink/tutorials/ethereum-compatibility/overview) — generate a **Solidity-compatible ABI** for your **ink!** contracts.
+
+- 🧩 [**Build a Frontend for an ink! dApp**](https://use.ink/tutorials/frontend-development/inkathon-erc20) — a step-by-step React/TypeScript frontend using **inkathon** to connect, read state, and send transactions to an ink! ERC-20 smart contract.
 
 ### 🔑 How to Connect to Polkadot Hub Testnet
 
