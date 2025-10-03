@@ -10,7 +10,13 @@ You can build:
 - 🧪 Proof of Concepts  
 - ✨ Vibe-coded projects  
 
-## What is Polkadot?
+> For more on the specifics of Polkadot, visit the official [Polkadot Documentation](https://docs.polkadot.com/polkadot-protocol/).
+
+## 🛠️ Getting Started  
+
+## Quick Primer: What is Polkadot?
+
+> If you're already famililar with Polkadot, feel free to skip to the [solutions matrix](#polkadot-solutionstooling-matrix) or [APIs and SDKs](#primary-apis--sdks).
 
 Polkadot is designed to enable scalable, secure, and interoperable networks to thrive, reflecting the following principles:
 
@@ -26,30 +32,18 @@ Polkadot is designed to enable scalable, secure, and interoperable networks to t
 
 **For Tinkerers:** Build apps that work across multiple blockchains, access rich data from dozens of live chains, and experiment with smart contracts, custom blockchains, or both!
 
-> For more on the specifics of Polkadot, visit the official [Polkadot Documentation](https://docs.polkadot.com/polkadot-protocol/).
+### Primary APIs & SDKs  
 
-## 🛠️ Getting Started  
+- [Polkadot API (PAPI)](https://papi.how/) — modern TypeScript API for Polkadot.  
+- *DeDot](https://docs.polkadot.com/develop/toolkit/api-libraries/dedot) — lightweight, reactive TypeScript library for Polkadot SDK chains.
+- [Sidecar](https://github.com/paritytech/substrate-api-sidecar) — REST service for blockchain data.  
+- [Subxt](https://github.com/paritytech/subxt) — Rust library to interact Polkadot SDK–based chains.
+- [Paraspell](https://paraspell.github.io/docs/)  - Library which makes working with XCM and interoperability on Polkadot easy.
+- [create-dot-app](https://github.com/preschian/create-dot-app) — CLI to scaffold Polkadot dApps with multiple frameworks option and PAPI/DeDot. 
 
 ### Polkadot Solutions/Tooling Matrix
 
 Have an idea in mind? Cross-chain tool, a voting system or a verification solution? Check out our [solution matrix](./tinkerer-materials/solution-matrix.md) to find which tools/modules are available for your case!
-
-### 🤖 Using AI to Tinker Faster  
-
-You don’t need to know everything — let AI do some heavy lifting:  
-
-- **GitHub Copilot for repos**: Open a repo like [Polkadot SDK](https://github.com/paritytech/polkadot-sdk), and ask Copilot to explain code, functions, or modules. Great for finding answers to “obscure” questions.  
-
-- **Query docs with AI**: Use an AI assistant to query [docs.polkadot.com](https://docs.polkadot.com/) directly — it saves time vs. searching manually.  
-
-### Primary APIs & SDKs  
-
-- [**Polkadot API (PAPI)**](https://papi.how/) — modern TypeScript API for Polkadot.  
-- [**DeDot**](https://docs.polkadot.com/develop/toolkit/api-libraries/dedot) — lightweight, reactive TypeScript library for Polkadot SDK chains.
-- [**Sidecar**](https://github.com/paritytech/substrate-api-sidecar) — REST service for blockchain data.  
-- [**Subxt**](https://github.com/paritytech/subxt) — Rust library to interact Polkadot SDK–based chains.
-- [**Paraspell**](https://paraspell.github.io/docs/)  - Library which makes working with XCM and interoperability on Polkadot easy.
-- [**create-dot-app**](https://github.com/preschian/create-dot-app) — CLI to scaffold Polkadot dApps with multiple frameworks option and PAPI/DeDot. 
 
 ### Hackathon Quickstarters
 
@@ -57,16 +51,16 @@ Want a quickstart to your project? Look no further than our [hackathon quickstar
 
 ### Data & Indexing  
 
-- [**SubQuery**](https://subquery.network/) — index and query blockchain data.  
-- [**DotLake**](https://github.com/paritytech/dotlake-community) — a data ingestion pipeline for Substrate-based blockchains (like Polkadot), view it in action [here](https://data.parity.io).
+- [SubQuery](https://subquery.network/) — index and query blockchain data.  
+- [DotLake](https://github.com/paritytech/dotlake-community) — a data ingestion pipeline for Substrate-based blockchains (like Polkadot), view it in action [here](https://data.parity.io).
 
 ### Wallets
 
-- [**Talisman Wallet**](https://www.talisman.xyz/)  
-- [**SubWallet**](https://subwallet.app/)
-- [**Polkadot.js Extension**](https://polkadot.js.org/extension/)
-- [**Nova Wallet**](https://novawallet.io/)
-- [**Polkadot Vault**](https://vault.novasama.io/)  
+- [Talisman Wallet](https://www.talisman.xyz/)  
+- [SubWallet](https://subwallet.app/)
+- [Polkadot.js Extension](https://polkadot.js.org/extension/)
+- [Nova Wallet](https://novawallet.io/)
+- [Polkadot Vault](https://vault.novasama.io/)  
 
 ### Infrastructure  
 
@@ -75,6 +69,15 @@ Want a quickstart to your project? Look no further than our [hackathon quickstar
 ### UI Helpers  
 
 - [**Polkadot Telemetry**](https://telemetry.polkadot.io/) — real-time visualization of multiple networks.
+
+### 🤖 Using AI for Efficient Tinkering  
+
+You don’t need to know everything — let AI do some heavy lifting:  
+
+- **GitHub Copilot for repos**: Open a repo like [Polkadot SDK](https://github.com/paritytech/polkadot-sdk), and ask Copilot to explain code, functions, or modules. Great for finding answers to “obscure” questions.  
+
+- **Query docs with AI**: Use an AI assistant to query [docs.polkadot.com](https://docs.polkadot.com/) directly — it saves time vs. searching manually.  
+
 
 ## 🎥 Video Resources
 
