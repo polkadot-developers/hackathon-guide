@@ -58,7 +58,6 @@ jobs:
             --no-progress
             --include-fragments
             --verbose
-            --exclude "https://www.npmjs.com/package/create-polkadot-dapp*"
             .
 
       - name: Provide helpful failure message
