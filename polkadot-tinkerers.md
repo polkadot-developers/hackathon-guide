@@ -10,9 +10,74 @@ You can build:
 - 🧪 Proof of Concepts  
 - ✨ Vibe-coded projects  
 
+> For more on the specifics of Polkadot, visit the official [Polkadot Documentation](https://docs.polkadot.com/polkadot-protocol/).
+
 ## 🛠️ Getting Started  
 
-### 🤖 Using AI to Tinker Faster  
+## Quick Primer: What is Polkadot?
+
+> If you're already famililar with Polkadot, feel free to skip to the [solutions matrix](#polkadot-solutionstooling-matrix) or [APIs and SDKs](#primary-apis--sdks).
+
+Polkadot is designed to enable scalable, secure, and interoperable networks to thrive, reflecting the following principles:
+
+1. **Less trust, more truth** — Enable self-verification instead of trusting intermediaries
+2. **Many chains, not one** — Specialized blockchains working together beats a single chain trying to do everything
+3. **Evolution over perfection** — Systems must adapt as technology advances, which Polkadot embraces with its modular forkless upgrades
+
+**The Architecture at a glance:**
+
+- **Relay Chain**: Main hub providing shared security and cross-chain messaging
+- **Parachains**: Specialized blockchains for different use cases (IoT, identity, healthcare etc.)
+- **XCM**: Cross-chain messaging that lets parachains talk to each other
+
+**For Tinkerers:** Build apps that work across multiple blockchains, access rich data from dozens of live chains, and experiment with smart contracts, custom blockchains, or both!
+
+### Primary APIs & SDKs  
+
+- [Polkadot API (PAPI)](https://papi.how/) — modern TypeScript API for Polkadot.  
+- *DeDot](https://docs.polkadot.com/develop/toolkit/api-libraries/dedot) — lightweight, reactive TypeScript library for Polkadot SDK chains.
+- [Sidecar](https://github.com/paritytech/substrate-api-sidecar) — REST service for blockchain data.  
+- [Subxt](https://github.com/paritytech/subxt) — Rust library to interact Polkadot SDK–based chains.
+- [Paraspell](https://paraspell.github.io/docs/)  - Library which makes working with XCM and interoperability on Polkadot easy.
+- [create-dot-app](https://github.com/preschian/create-dot-app) — CLI to scaffold Polkadot dApps with multiple frameworks option and PAPI/DeDot. 
+
+### Polkadot Solutions/Tooling Matrix
+
+Have an idea in mind? Cross-chain tool, a voting system or a verification solution? Check out our [solution matrix](./tinkerer-materials/solution-matrix.md) to find which tools/modules are available for your case!
+
+### Hackathon Quickstarters
+
+Want a quickstart to your project? Look no further than our [hackathon quickstarter guide](./tinkerer-materials/quickstarters.md), where you will find templates, tutorials, and documentation for the above SDKs.
+
+### Data & Indexing  
+
+- [SubQuery](https://subquery.network/) — index and query blockchain data.  
+- [DotLake](https://github.com/paritytech/dotlake-community) — a data ingestion pipeline for Substrate-based blockchains (like Polkadot), view it in action [here](https://data.parity.io).
+
+### Wallets
+
+- [Talisman Wallet](https://www.talisman.xyz/)  
+- [SubWallet](https://subwallet.app/)
+- [Polkadot.js Extension](https://polkadot.js.org/extension/)
+- [Nova Wallet](https://novawallet.io/)
+- [Polkadot Vault](https://vault.novasama.io/)  
+
+### Infrastructure  
+
+- [**Pop! CLI**](https://onpop.io/) — is a developer platform for Polkadot that makes it easy to **build, test, and deploy** smart contracts or appchains with a streamlined CLI.
+
+### Interoperability & Bridging
+
+- [**Paraspell**](https://paraspell.github.io/docs/) — SDK for cross-chain transfers and XCM interactions within Polkadot ecosystem
+- [**Snowbridge**](https://docs.snowbridge.network/) — trustless bridge between Ethereum and Polkadot
+- [**Hyperbridge**](https://docs.hyperbridge.network/) — universal interoperability protocol enabling trustless communication between any blockchain networks
+- [**Bridge Hub**](https://wiki.polkadot.network/docs/learn-bridge-hub) — Polkadot's dedicated parachain for bridging operations
+
+### UI Helpers  
+
+- [**Polkadot Telemetry**](https://telemetry.polkadot.io/) — real-time visualization of multiple networks.
+
+### 🤖 Using AI for Efficient Tinkering  
 
 You don’t need to know everything — let AI do some heavy lifting:  
 
@@ -20,35 +85,6 @@ You don’t need to know everything — let AI do some heavy lifting:
 
 - **Query docs with AI**: Use an AI assistant to query [docs.polkadot.com](https://docs.polkadot.com/) directly — it saves time vs. searching manually.  
 
-### APIs & SDKs  
-
-- [**Polkadot API (PAPI)**](https://papi.how/) — modern TypeScript API for Polkadot.  
-- [**DeDot**](https://docs.polkadot.com/develop/toolkit/api-libraries/dedot) — lightweight TypeScript library for Polkadot SDK chains, great for quick prototypes.  
-- [**Sidecar**](https://github.com/paritytech/substrate-api-sidecar) — REST service for blockchain data.  
-- [**Subxt**](https://github.com/paritytech/subxt) — Rust library to interact Polkadot SDK–based chains.
-- [**Paraspell**](https://paraspell.github.io/docs/)  - Library which makes working with XCM and interoperability on Polkadot easy.
-
-### Data & Indexing  
-
-- [**SubQuery**](https://subquery.network/) — index and query blockchain data.  
-- [**DotLake**](https://github.com/paritytech/dotlake-community) — a data ingestion pipeline for Substrate-based blockchains (like Polkadot), view it in action [here](https://data.parity.io).
-
-### Wallets
-
-- [**Talisman Wallet**](https://www.talisman.xyz/)  
-- [**SubWallet**](https://subwallet.app/)
-- [**Polkadot.js Extension**](https://polkadot.js.org/extension/)
-- [**Nova Wallet**](https://novawallet.io/)
-- [**Polkadot Vault**](https://vault.novasama.io/)  
-
-### Infrastructure  
-
-- [**Pop! CLI**](https://onpop.io/) — is a developer platform for Polkadot that makes it easy to **build, test, and deploy** smart contracts or appchains with a streamlined CLI.
-
-### UI Helpers  
-
-- [**Polkadot Telemetry**](https://telemetry.polkadot.io/) — real-time visualization of multiple networks.
-- [**create-dot-app**](https://github.com/preschian/create-dot-app) — CLI to scaffold Polkadot dApps with multiple frameworks option and PAPI/DeDot. 
 
 ## 🎥 Video Resources
 
@@ -77,31 +113,10 @@ You can use Replit to:
 - **Hack with vibes** — memes, mashups, or unique experiments welcome!  
 - **Spin up an appchain** — use Tanssi to launch a chain tied to your own app.  
 
-## 🌐 Out in the Wild - Deployed Examples
+## 🌐 Deployed Examples
 
 This section highlights **working examples** you can fork, get inspiration from, build on right away. Each entry links to a repo and (where available) a quick summary/tutorial to help you get started fast.  
 
-- **EduChain** → [GitHub Repo](https://github.com/w3f/educhain)  
-  *An example parachain developed by the TechEd team at W3F for education and credentialing, showing how the Polkadot SDK can power real-world solutions.*  
+- [**EduChain**](https://github.com/w3f/educhain) — An example parachain developed by the TechEd team at W3F for education and credentialing, showing how the Polkadot SDK can power real-world solutions.
 
-- **create-polkadot-dapp** → [GitHub Repo](https://github.com/paritytech/create-polkadot-dapp)  
-  *A starter template for quickly scaffolding Polkadot dApps with minimal setup.*  
-
-## 🧩 Tinkering Examples  
-
-These show how beginners can **mix and match tools**:  
-
-1. **API + Visualization**  
-   - Fetch balances and transfers via **DeDot** or **PAPI**.  
-   - Pipe the data into a simple **D3.js chart** to show how account balances evolve over time.  
-2. **Explore and use FRAME**
-   - Build a DAO without smart contracts just using the [Proxy pallet](https://www.youtube.com/watch?v=zzcIAjhbAF8).
-   - Use the [Scheduler pallet](https://www.youtube.com/watch?v=olcuZHb4u88) to build a dApp with cyclical actions.
- 
-
-
-## 📚 Other Resources  
-
-- [Polkadot Wiki](https://wiki.polkadot.network/)  
-- [Polkadot Forum](https://forum.polkadot.network/)  
-- [Polkadot SDK Docs](https://docs.polkadot.com/)
+- [**create-polkadot-dapp**](https://github.com/paritytech/create-polkadot-dapp) — A starter template for quickly scaffolding Polkadot dApps with minimal setup.
