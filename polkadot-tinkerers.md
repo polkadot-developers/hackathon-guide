@@ -39,7 +39,8 @@ Polkadot is designed to enable scalable, secure, and interoperable networks to t
 - [Sidecar](https://github.com/paritytech/substrate-api-sidecar) — REST service for blockchain data.  
 - [Subxt](https://github.com/paritytech/subxt) — Rust library to interact Polkadot SDK–based chains.
 - [Paraspell](https://paraspell.github.io/docs/)  - Library which makes working with XCM and interoperability on Polkadot easy.
-- [create-dot-app](https://github.com/preschian/create-dot-app) — CLI to scaffold Polkadot dApps with multiple frameworks option and PAPI/DeDot. 
+- [create-dot-app](https://github.com/preschian/create-dot-app) — CLI to scaffold Polkadot dApps with multiple frameworks option and PAPI/DeDot.
+- [polkadot ui](https://polkadot-ui.com) - React component library for Polkadot with components built on Tailwind and Shadcn. Works with PAPI/DeDot Next.js/Vite
 
 ### Polkadot Solutions/Tooling Matrix
 
