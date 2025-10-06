@@ -66,6 +66,13 @@ Want a quickstart to your project? Look no further than our [hackathon quickstar
 
 - [**Pop! CLI**](https://onpop.io/) — is a developer platform for Polkadot that makes it easy to **build, test, and deploy** smart contracts or appchains with a streamlined CLI.
 
+### Interoperability & Bridging
+
+- [**Paraspell**](https://paraspell.github.io/docs/) — SDK for cross-chain transfers and XCM interactions within Polkadot ecosystem
+- [**Snowbridge**](https://docs.snowbridge.network/) — trustless bridge between Ethereum and Polkadot
+- [**Hyperbridge**](https://docs.hyperbridge.network/) — universal interoperability protocol enabling trustless communication between any blockchain networks
+- [**Bridge Hub**](https://wiki.polkadot.network/docs/learn-bridge-hub) — Polkadot's dedicated parachain for bridging operations
+
 ### UI Helpers  
 
 - [**Polkadot Telemetry**](https://telemetry.polkadot.io/) — real-time visualization of multiple networks.
