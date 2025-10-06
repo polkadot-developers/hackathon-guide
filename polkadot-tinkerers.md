@@ -103,7 +103,9 @@ You can use Replit to:
 
  Replit has built-in **AI prompting**. You can paste in code snippets or ask it to use libraries like **PAPI**, **DeDot**, **Subxt**, **SubQuery**, or **Sidecar** directly in your project. This makes it much easier to get started, even if you don’t know the exact function calls.  
 
-👉 In other words: Replit is your **sandbox for Polkadot tinkering** — experiment quickly, share instantly, and learn by doing.    
+👉 In other words: Replit is your **sandbox for Polkadot tinkering** — experiment quickly, share instantly, and learn by doing.    '
+
+> Note: This can also be done with VSCode Copilot on agent mode
 
 ## 🚀 Approaches for Tinkerers  
 
@@ -111,12 +113,14 @@ You can use Replit to:
 - **Visualize data** — build dashboards, graphs, creative art from chain telemetry and data.
 - **Improve UX** — prototype wallet flows, simplify onboarding, or provide unique recovery methods for wallets.  
 - **Hack with vibes** — memes, mashups, or unique experiments welcome!  
-- **Spin up an appchain** — use Tanssi to launch a chain tied to your own app.  
+- **Spin up an appchain** — use the Polkadot SDK to launch a chain tied to your own app.  
+  
+Be sure to take a look at the [solutions matrix](./tinkerer-materials/solution-matrix.md) and on what pallets are already available in the ecosystem, as well as the [quickstarters](./tinkerer-materials/quickstarters.md) to get hacking right away.
 
 ## 🌐 Deployed Examples
 
 This section highlights **working examples** you can fork, get inspiration from, build on right away. Each entry links to a repo and (where available) a quick summary/tutorial to help you get started fast.  
 
-- [**EduChain**](https://github.com/w3f/educhain) — An example parachain developed by the TechEd team at W3F for education and credentialing, showing how the Polkadot SDK can power real-world solutions.
+- [EduChain](https://github.com/w3f/educhain) — An example parachain developed by the TechEd team at W3F for education and credentialing, showing how the Polkadot SDK can power real-world solutions.
 
-- [**create-polkadot-dapp**](https://github.com/paritytech/create-polkadot-dapp) — A starter template for quickly scaffolding Polkadot dApps with minimal setup.
+- [create-polkadot-dapp](https://github.com/paritytech/create-polkadot-dapp) — A starter template for quickly scaffolding Polkadot dApps with minimal setup.
