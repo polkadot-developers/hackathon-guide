@@ -2,7 +2,7 @@
 
 Welcome to the **Polkadot Hackathon Survival Guide**!  Whether you're a **blockchain pro** or just starting with **Polkadot**, this guide has all the essential info, tips, and resources to help you in your journey building on Polkadot. ✨
 
-From setting up your **development environment** to **presenting your project**, we’ve got you covered. The Polkadot ecosystem provides multiple development pathways:
+From setting up your **development environment** to **presenting your project**, we’ve got you covered. The Polkadot ecosystem provides **multiple** development pathways:
 
 <img width="1109" alt="image" src="https://github.com/user-attachments/assets/5c5bf50a-1906-4f04-9478-0d3bcc70649b" />
 

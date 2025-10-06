@@ -123,4 +123,4 @@ This section highlights **working examples** you can fork, get inspiration from,
 
 - [EduChain](https://github.com/w3f/educhain) — An example parachain developed by the TechEd team at W3F for education and credentialing, showing how the Polkadot SDK can power real-world solutions.
 
-- [create-polkadot-dapp](https://github.com/paritytech/create-polkadot-dapp) — A starter template for quickly scaffolding Polkadot dApps with minimal setup.
+- [create-polkadot-dapp](https://github.com/paritytech/create-polkadot-dapp) — A starter template for quickly scaffolding Polkadot dApps with minimal setup.****
