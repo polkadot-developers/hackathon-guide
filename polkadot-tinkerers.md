@@ -40,7 +40,7 @@ Polkadot is designed to enable scalable, secure, and interoperable networks to t
 - [Subxt](https://github.com/paritytech/subxt) — Rust library to interact Polkadot SDK–based chains.
 - [Paraspell](https://paraspell.github.io/docs/)  - Library which makes working with XCM and interoperability on Polkadot easy.
 - [create-dot-app](https://github.com/preschian/create-dot-app) — CLI to scaffold Polkadot dApps with multiple frameworks option and PAPI/DeDot.
-- [polkadot ui](https://polkadot-ui.com) - React component library for Polkadot with components build on tailwind and shadcn. Works with papi/dedot next.js/vite
+- [polkadot ui](https://polkadot-ui.com) - React component library for Polkadot with components built on Tailwind and Shadcn. Works with PAPI/DeDot Next.js/Vite
 
 ### Polkadot Solutions/Tooling Matrix
 
