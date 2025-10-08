@@ -56,11 +56,18 @@ They typically feature wallet integration, real-time chain data display, and tra
 
 **Ready-to-use code templates and working examples to jumpstart your development.** These repositories provide battle-tested starting points for different types of Polkadot applications. Clone, modify, and build upon these foundations rather than starting from scratch.
 
-| Boilerplate | Language | Type | Purpose | Repo URL |
-|---|---|---|---|---|
-| [Polkadot API TS Boilerplate](https://github.com/CrackTheCode016/polkadot-api-ts-boilerplate) | TypeScript | Template | Base PAPI app (balances/tx wiring scaffold) | https://github.com/CrackTheCode016/polkadot-api-ts-boilerplate |
-| [Polkadot API Example CLI](https://github.com/CrackTheCode016/polkadot-api-example-cli) | TypeScript | Example | Sample CLI ("You Got Mail!") using PAPI boilerplate | https://github.com/CrackTheCode016/polkadot-api-example-cli |
-| [EduNews (PAPI + Vue)](https://github.com/CrackTheCode016/edunews) | TypeScript | Example | Working web app using PAPI for chain reads | https://github.com/CrackTheCode016/edunews |
-| [SubXT Template](https://github.com/CrackTheCode016/polkadot-subxt-boilerplate) | Rust | Template | Consolidated Subxt client template with signing examples | https://github.com/CrackTheCode016/polkadot-subxt-boilerplate |
-| [EduNews SubXT](https://github.com/CrackTheCode016/edunews-subxt) | Rust | Example | Working example using Subxt, using the subxt boilerplate. | https://github.com/CrackTheCode016/edunews-subxt |
-| [EduChain (Polkadot SDK)](https://github.com/w3f/educhain) | Rust (SDK) | Example | Example parachain with custom pallets | https://github.com/w3f/educhain |
+#### Templates
+
+| Resource | Language | Purpose | Repo URL |
+|---|---|---|---|
+| [Polkadot API TS Boilerplate](https://github.com/CrackTheCode016/polkadot-api-ts-boilerplate) | TypeScript | Base PAPI Typescript repo | https://github.com/CrackTheCode016/polkadot-api-ts-boilerplate |
+| [SubXT Template](https://github.com/CrackTheCode016/polkadot-subxt-boilerplate) | Rust | Consolidated Subxt client template with signing examples | https://github.com/CrackTheCode016/polkadot-subxt-boilerplate |
+
+#### Examples
+
+| Resource | Language | Purpose | Repo URL |
+|---|---|---|---|
+| [Polkadot API Example CLI](https://github.com/CrackTheCode016/polkadot-api-example-cli) | TypeScript | Sample CLI ("You Got Mail!") using PAPI boilerplate | https://github.com/CrackTheCode016/polkadot-api-example-cli |
+| [EduNews (PAPI + Vue)](https://github.com/CrackTheCode016/edunews) | TypeScript | Working web app using PAPI for chain reads | https://github.com/CrackTheCode016/edunews |
+| [EduNews SubXT](https://github.com/CrackTheCode016/edunews-subxt) | Rust | Working example using Subxt, using the subxt boilerplate. | https://github.com/CrackTheCode016/edunews-subxt |
+| [EduChain (Polkadot SDK)](https://github.com/w3f/educhain) | Rust (SDK) | Example parachain with custom pallets | https://github.com/w3f/educhain |
