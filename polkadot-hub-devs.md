@@ -6,7 +6,7 @@ Please provide **feedback** on your experience deploying smart contracts on Polk
 
 *Refer to the [**known issues**](https://docs.google.com/document/d/1j5hnQZRqlbVagW28dC24OVAF8uRih5jWubBxy5PlMYc/edit?usp=sharing) document if you're running into issues deploying contracts or using any of the tools below. If you have a new bug or problem, please raise an issue in the [Contracts Bug tracker](https://github.com/paritytech/contract-issues) on Github.*
 
-### ⚡ Quick Start with kitdot (Recommended)
+### ⚡ Quick Start with kitdot
 
 Use [**kitdot**](https://www.npmjs.com/package/kitdot) to initialize your project with zero configuration:
 
@@ -129,6 +129,6 @@ Jumpstart your **smart contract dApp** with these templates:
 
 - If using AI tools like LLMs, remember to direct them to use the most [up-to-date documentation](https://docs.polkadot.com/).
 
-- **For AI Coding Assistants**: Use the [**Agents.md**](./Agents.md) file as context for your coding agents (Claude Code, Cursor, etc.). This comprehensive guide includes network configurations, deployment strategies, common errors, and troubleshooting steps. Copy it to your project root or reference it in your AI assistant's context. **Note:** kitdot automatically includes this file in new projects.
+- **For AI Coding Assistants**: Use the [**Agents.md**](https://github.com/w3b3d3v/kitdot/blob/main/templates/llms/AGENTS.md) file as context for your coding agents (Claude Code, Cursor, etc.). This comprehensive guide includes network configurations, deployment strategies, common errors, and troubleshooting steps. Copy it to your project root or reference it in your AI assistant's context. **Note:** kitdot automatically includes this file in new projects.
 
 - Especially if you are using Claude, [this document](https://www.kusamahub.com/downloads/LLMCONTRACTS.md) contains configuration settings for using the testnet to deploy smart contracts, and we recommend informing your LLM to refer to it.  
