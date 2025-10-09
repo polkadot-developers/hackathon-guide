@@ -1,6 +1,6 @@
 # 🌟 Polkadot Hackathon Survival Guide 🌟
 
-Welcome to the **Polkadot Hackathon Survival Guide**!  Whether you're a **blockchain pro** or just starting with **Polkadot**, this guide has all the essential info, tips, and resources to help you in your journey building on Polkadot. ✨
+Welcome to the **Polkadot Hackathon Survival Guide** curated by Web3 Foundation, Parity Technologies and the Polkadot Ecosystem DevRel teams!  Whether you're a **blockchain pro** or just starting with **Polkadot**, this guide has all the essential info, tips, and resources to help you in your journey building on Polkadot. ✨
 
 From setting up your **development environment** to **presenting your project**, we’ve got you covered. The Polkadot ecosystem provides **multiple** development pathways:
 
