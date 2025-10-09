@@ -100,6 +100,8 @@ Here you can find some useful tutorials and resources to help you get started wi
 
 You can use any **Ethereum-compatible wallet** wallet to connect to Polkadot Hub Testnet. Follow the [Connect your Wallet](https://docs.polkadot.com/develop/smart-contracts/connect-to-polkadot/) guide to connect using MetaMask. We also recommend using [Talisman](https://talisman.xyz/), which is built for both Polkadot and Ethereum.
 
+**Quick Setup**: Use [**Chainlist**](https://chainlist.org/?search=passet) to automatically configure Passet Hub in your wallet with one click.
+
 ```
 Testnet details:
 * Network name: Passet Hub
