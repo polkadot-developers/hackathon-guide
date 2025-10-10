@@ -99,6 +99,8 @@ Jumpstart your **smart contract dApp** with these templates:
 
 - [**create-polkadot-dapp**](https://www.npmjs.com/package/create-polkadot-dapp?activeTab=readme) - a scaffolding tool to generate project boilerplates. Explore the `react-solidity` template located in the `templates` folder which comes pre-configured with **React, Tailwind CSS, and Ethers.js** for frontend interaction with your smart contracts
 
+- [**create-dot-app**](https://www.npmjs.com/package/create-dot-app) - a comprehensive scaffolding tool with Solidity templates for both **React** and **Vue**, making it easy to get started with smart contract development on Polkadot
+
 - [**hardhat-polkadot-example**](https://github.com/UtkarshBhardwaj007/hardhat-polkadot-example) - a demo for how to use Hardhat with Polkadot.
 
 
