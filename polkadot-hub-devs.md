@@ -6,17 +6,6 @@ Please provide **feedback** on your experience deploying smart contracts on Polk
 
 *Refer to the [**known issues**](https://docs.google.com/document/d/1j5hnQZRqlbVagW28dC24OVAF8uRih5jWubBxy5PlMYc/edit?usp=sharing) document if you're running into issues deploying contracts or using any of the tools below. If you have a new bug or problem, please raise an issue in the [Contracts Bug tracker](https://github.com/paritytech/contract-issues) on Github.*
 
-### ⚡ Quick Start with kitdot
-
-Use [**kitdot**](https://www.npmjs.com/package/kitdot) to initialize your project with zero configuration:
-
-```bash
-npx kitdot@latest init my-project
-cd my-project
-```
-
-**Why kitdot?** Eliminates setup headaches with automatic Hardhat + Polkadot configuration, proper network settings, correct dependencies, and multiple project templates. Includes AI agent context files (see [AI Configuration](#vibe-coding-with-ai-llm-configuration-helper) below). Perfect for hackathons and rapid development.
-
 ### 🚀 Quick Start with DevContainers
 
 - To speed things up and have your "batteries included" dev environment, you can use [DevContainers](https://code.visualstudio.com/docs/devcontainers/containers). They are regularly maintained and tested by the ecosystem professionals. You can find the configuration for Polkadot smart contract development in the [smart-contracts-devcontainer](https://github.com/paritytech/smart-contracts-devcontainer) repository.
@@ -56,23 +45,13 @@ Several libraries can be used to interact with smart contracts deployed on Polka
 
 - 🧙 [**Wagmi**](https://docs.polkadot.com/develop/smart-contracts/libraries/wagmi/)
 
+- 🛠️ [**kitdot**](https://www.npmjs.com/package/kitdot) - scaffolding tool with zero-config Hardhat + Polkadot setup
+
 **ink!**
 
 - 🥸 [**PAPI**](https://papi.how/ink)
 
 - ⚒️ [**Pop CLI**](https://learn.onpop.io/welcome/hackathon-guide#contract-development)
-
-### 🛠️ Comprehensive Development Tools & Resources
-
-For a complete reference of Polkadot development tools, libraries, and infrastructure, see the [**Polkadot Development Tools Guide**](polkadot-development-tools.md). This comprehensive resource includes:
-
-- **Core Development Stack**: PAPI, Dedot, ReactiveDOT, kitdot, POP CLI
-- **Development Environments**: Remix, Hardhat, Foundry configurations
-- **Wallets & Connectivity**: Talisman, Nova, SubWallet, Polkagate
-- **Frontend Libraries**: Ethers.js, Viem, Wagmi, PAPI integrations
-- **Testing & Deployment**: Chopsticks, Zombienet, deployment portals
-- **Cross-Chain Tools**: XCM SDK, Paraspell, Bagpipes
-- **Monitoring & Analytics**: Subscan, Statescan, XCM Tracker
 
 ### 📚 Tutorials and Guides
 
