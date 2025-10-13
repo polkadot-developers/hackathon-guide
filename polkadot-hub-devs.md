@@ -45,6 +45,8 @@ Several libraries can be used to interact with smart contracts deployed on Polka
 
 - 🧙 [**Wagmi**](https://docs.polkadot.com/develop/smart-contracts/libraries/wagmi/)
 
+- 🛠️ [**kitdot**](https://www.npmjs.com/package/kitdot) - scaffolding tool with zero-config Hardhat + Polkadot setup
+
 **ink!**
 
 - 🥸 [**PAPI**](https://papi.how/ink)
@@ -77,6 +79,8 @@ Here you can find some useful tutorials and resources to help you get started wi
 
 You can use any **Ethereum-compatible wallet** wallet to connect to Polkadot Hub Testnet. Follow the [Connect your Wallet](https://docs.polkadot.com/develop/smart-contracts/connect-to-polkadot/) guide to connect using MetaMask. We also recommend using [Talisman](https://talisman.xyz/), which is built for both Polkadot and Ethereum.
 
+**Quick Setup**: Use [**Chainlist**](https://chainlist.org/?search=passet) to automatically configure Passet Hub in your wallet with one click.
+
 ```
 Testnet details:
 * Network name: Passet Hub
@@ -107,5 +111,7 @@ Jumpstart your **smart contract dApp** with these templates:
 ### Vibe coding with AI: LLM configuration helper
 
 - If using AI tools like LLMs, remember to direct them to use the most [up-to-date documentation](https://docs.polkadot.com/).
+
+- **For AI Coding Assistants**: Use the [**Agents.md**](https://github.com/w3b3d3v/kitdot/blob/main/templates/llms/AGENTS.md) file as context for your coding agents (Claude Code, Cursor, etc.). This comprehensive guide includes network configurations, deployment strategies, common errors, and troubleshooting steps. Copy it to your project root or reference it in your AI assistant's context. **Note:** kitdot automatically includes this file in new projects.
 
 - Especially if you are using Claude, [this document](https://www.kusamahub.com/downloads/LLMCONTRACTS.md) contains configuration settings for using the testnet to deploy smart contracts, and we recommend informing your LLM to refer to it.  
