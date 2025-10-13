@@ -23,7 +23,7 @@ They typically feature wallet integration, real-time chain data display, and tra
 | **DeDot** | Lightweight TypeScript library for Polkadot chains | Need minimal bundle size and only basic chain interactions | [DeDot Developer Docs](https://docs.dedot.dev/)| `npx create-dot-app` (choose DeDot) | [Working Examples using DeDot](https://docs.dedot.dev/help-and-faq/built-with-dedot) | [Develop ink! dApp using Typink](https://docs.dedot.dev/help-and-faq/tutorials/develop-ink-dapp-using-typink) |
 | **Polkadot UI (beta)** | React component library for Polkadot dApps | Building polished UIs with pre-built wallet integration and chain components | https://polkadot-ui.com/docs | `npx polkadot-ui@latest list` |  | [Getting Started Guide](https://polkadot-ui.com/docs/getting-started) | 
 | **ParaSpell (XCM SDK)** | Cross-chain transfer library | Building cross-chain features without complex XCM setup | https://paraspell.github.io/docs/ | *(use within PAPI app / boilerplate)* |  |  |
-| **create-dot-app** | Project scaffolding tool | Quick project setup with modern frameworks and best practices | https://github.com/preschian/create-dot-app | `npx create-dot-app` (choose PAPI/DeDot) | *(n/a)* | *(n/a)* |
+| **create-dot-app** | Project scaffolding tool | Quick project setup with modern frameworks and best practices | https://github.com/preschian/create-dot-app | `npx create-dot-app` (choose PAPI/DeDot) | [Question Board](https://0xdevcult.github.io/workshop-fun/) | *(n/a)* |
 
 ### Building with Rust
 
