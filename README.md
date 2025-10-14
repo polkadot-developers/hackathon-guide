@@ -17,7 +17,7 @@ From setting up your **development environment** to **presenting your project**,
 Need help during the hackathon? The Polkadot community offers multiple support channels to assist you:
 
 - **Technical questions** and development guidance: official [Telegram](https://t.me/substratedevs) and [Discord](https://polkadot-discord.w3f.tools/) channels
-- **Community forums** for discussions and networking: [Polkadot Forum](https://forum.polkadot.network/) and [StackExchange](https://stackexchange.com/)
+- **Community forums** for discussions and networking: [Polkadot Forum](https://forum.polkadot.network/) and [StackExchange](https://polkadot.stackexchange.com/)
 - **Documentation** and troubleshooting resources: [Polkadot Docs](https://docs.polkadot.com/)
 
 For comprehensive information about all available support channels in Polkadot, refer to the [Get Support page](https://docs.polkadot.com/get-support/).
