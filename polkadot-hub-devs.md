@@ -81,7 +81,7 @@ You can use any **Ethereum-compatible wallet** wallet to connect to Polkadot Hub
 ```
 Testnet details:
 * Network name: Passet Hub
-* Chain ID: 420420421
+* Chain ID: 420420422
 * RPC URL: https://testnet-passet-hub-eth-rpc.polkadot.io
 * Block Explorer URL: https://blockscout-passet-hub.parity-testnet.parity.io/
 ```
