@@ -1,8 +1,8 @@
 ## 🚀 Smart Contract Development on Polkadot
 
-Polkadot enables **smart contract deployment** via **PolkaVM**. This allows using familiar **Ethereum tools** and **libraries** while leveraging Polkadot’s robust ecosystem. **PolkaVM** is live on Passet Hub, the Polkadot community testnet. ✅
+Polkadot enables **smart contract deployment** via **PolkaVM**. This allows using familiar **Ethereum tools** and **libraries** while leveraging Polkadot’s robust ecosystem. **PolkaVM** is live on the Polkadot TestNet. ✅
 
-Please provide **feedback** on your experience deploying smart contracts on Polkadot using this [feedback form](https://forms.gle/BhL5ZCaFMUvSipos8). 
+Please provide **feedback** on your experience deploying smart contracts on Polkadot using this [feedback form](https://forms.gle/BhL5ZCaFMUvSipos8).
 
 *Refer to the [**known issues**](https://docs.google.com/document/d/1j5hnQZRqlbVagW28dC24OVAF8uRih5jWubBxy5PlMYc/edit?usp=sharing) document if you're running into issues deploying contracts or using any of the tools below. If you have a new bug or problem, please raise an issue in the [Contracts Bug tracker](https://github.com/paritytech/contract-issues) on Github.*
 
@@ -23,11 +23,12 @@ There are multiple development environments already available for Polkadot smart
 - 🖥️ [**Polkadot Remix IDE**](https://docs.polkadot.com/develop/smart-contracts/dev-environments/remix/) - a web-based IDE that allows you to write, test, and deploy smart contracts directly in your browser. It's integrated with compatible chains: you can deploy right from the browser
 
 - ⚒️ [**Hardhat**](https://docs.polkadot.com/develop/smart-contracts/dev-environments/hardhat/) - a popular Ethereum development environment that can be used for Polkadot smart contract development with the help of custom plugins
-- 🤠 [**Foundry**](https://docs.polkadot.com/develop/smart-contracts/dev-environments/foundry/) - a smart contract development toolchain that manages your dependencies, compiles your project, runs tests, deploys, and lets you interact with thec ontracts.
+
+- 🤠 [**Foundry**](https://docs.polkadot.com/develop/smart-contracts/dev-environments/foundry/) - a smart contract development toolchain that manages your dependencies, compiles your project, runs tests, deploys, and lets you interact with the contracts.
 
 ### 🦀 Rust Contracts
 
-Besides **Solidity**, you can also write smart contracts in Rust using **ink!** &mdash; the go-to language for Rust-based smart contract development on Polkadot. Check out the [**ink! Docs**](https://use.ink/6.x) (compatible with PolkaVM from v6 ) to get started.
+Besides **Solidity**, you can also write smart contracts in Rust using **ink!** &mdash; the go-to language for Rust-based smart contract development on Polkadot. Check out the [**ink! Docs**](https://use.ink/6.x) to get started.
 
 ### 👨‍💻 Contract Interaction Libraries
 
@@ -84,7 +85,7 @@ You can use any **Ethereum-compatible wallet** wallet to connect to Polkadot Hub
 ```
 Testnet details:
 * Network name: Passet Hub
-* Chain ID: 420420421
+* Chain ID: 420420422
 * RPC URL: https://testnet-passet-hub-eth-rpc.polkadot.io
 * Block Explorer URL: https://blockscout-passet-hub.parity-testnet.parity.io/
 ```
@@ -101,7 +102,9 @@ Need **testnet tokens**? Get some from the [**Testnet Faucet**](https://faucet.p
 
 Jumpstart your **smart contract dApp** with these templates:
 
-- [**create-polkadot-dapp**](https://www.npmjs.com/package/create-polkadot-dapp?activeTab=readme) - a scaffolding tool to generate project boilerplates. Explore the `react-solidity` template located in the `templates` folder which comes pre-configured with **React, Tailwind CSS, and Ethers.js** for frontend interaction with your smart contracts
+- [**create-polkadot-dapp**](https://www.npmjs.com/package/create-polkadot-dapp) - a scaffolding tool to generate project boilerplates. Explore the `react-solidity` template located in the `templates` folder which comes pre-configured with **React, Tailwind CSS, and Ethers.js** for frontend interaction with your smart contracts
+
+- [**create-dot-app**](https://www.npmjs.com/package/create-dot-app) - a comprehensive scaffolding tool with Solidity templates for both **React** and **Vue**, making it easy to get started with smart contract development on Polkadot
 
 - [**hardhat-polkadot-example**](https://github.com/UtkarshBhardwaj007/hardhat-polkadot-example) - a demo for how to use Hardhat with Polkadot.
 
