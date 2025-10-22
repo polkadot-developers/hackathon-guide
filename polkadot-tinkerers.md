@@ -41,6 +41,8 @@ Polkadot is designed to enable scalable, secure, and interoperable networks to t
 - [Paraspell](https://paraspell.github.io/docs/)  - Library which makes working with XCM and interoperability on Polkadot easy.
 - [create-dot-app](https://github.com/preschian/create-dot-app) — CLI to scaffold Polkadot dApps with multiple frameworks option and PAPI/DeDot.
 - [polkadot ui](https://polkadot-ui.com) - React component library for Polkadot with components built on Tailwind and Shadcn. Works with PAPI/DeDot Next.js/Vite
+- [ReactiveDOT](https://reactivedot.dev/) - Batteries-included framework for building Polkadot front-ends.
+- [DOTConnect](https://dotconnect.dev/) - Universal wallet connector for Polkadot DApps.
 
 ### Polkadot Solutions/Tooling Matrix
 
