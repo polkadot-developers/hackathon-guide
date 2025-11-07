@@ -43,7 +43,7 @@ Polkadot is designed to enable scalable, secure, and interoperable networks to t
 - [polkadot ui](https://polkadot-ui.com) - React component library for Polkadot with components built on Tailwind and Shadcn. Works with PAPI/DeDot Next.js/Vite
 - [ReactiveDOT](https://reactivedot.dev/) - Batteries-included framework for building Polkadot front-ends.
 - [DOTConnect](https://dotconnect.dev/) - Universal wallet connector for Polkadot DApps.
-
+- [LunoKit](https://docs.lunolab.xyz/) — A wallet integration toolkit that simplifies wallet connections to dApp frontends in the Polkadot ecosystem.
 ### Polkadot Solutions/Tooling Matrix
 
 Have an idea in mind? Cross-chain tool, a voting system or a verification solution? Check out our [solution matrix](./tinkerer-materials/solution-matrix.md) to find which tools/modules are available for your case!
