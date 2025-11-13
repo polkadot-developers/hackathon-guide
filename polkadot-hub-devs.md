@@ -73,7 +73,7 @@ Here you can find some useful tutorials and resources to help you get started wi
 
 - 🎥 [**Deploy Rust and Solidity contracts**](https://youtu.be/TGgpG1jPxeE) – a workshop showcasing how to deploy and interact with Solidity and Rust contracts on the Polkadot Hub.
 
-- 🔄 [**ink! Ethereum Compatibility**](https://use.ink/tutorials/ethereum-compatibility/overview) — generate a **Solidity-compatible ABI** for your [**ink!**](https://use.ink/docs/v6#what-is-ink) contracts.
+- 🔄 [**ink! Ethereum Compatibility**](https://use.ink/docs/v6/solidity-interop/metamask-setup) — generate a **Solidity-compatible ABI** for your [**ink!**](https://use.ink/docs/v6#what-is-ink) contracts.
 
 - 🧩 [**Build a Frontend for an ink! dApp**](https://use.ink/tutorials/frontend-development/inkathon-erc20) — a step-by-step React/TypeScript frontend using **inkathon** to connect, read state, and send transactions to an ink! ERC-20 smart contract.
 
