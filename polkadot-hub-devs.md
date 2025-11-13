@@ -1,6 +1,6 @@
 ## 🚀 Smart Contract Development on Polkadot
 
-Polkadot enables **smart contract deployment** via **PolkaVM**. This allows using familiar **Ethereum tools** and **libraries** while leveraging Polkadot’s robust ecosystem. **PolkaVM** is live on the Polkadot TestNet. ✅
+Polkadot enables **smart contract development** with **pallet-revive**. This allows using familiar **Ethereum tools** and **libraries** while leveraging Polkadot’s robust ecosystem.
 
 Please provide **feedback** on your experience deploying smart contracts on Polkadot using this [feedback form](https://forms.gle/BhL5ZCaFMUvSipos8).
 
@@ -16,13 +16,13 @@ Please provide **feedback** on your experience deploying smart contracts on Polk
 curl -fsSL https://raw.githubusercontent.com/paritytech/smart-contracts-devcontainer/main/.devcontainer/fetch-devcontainer.sh | bash -s --
 ```
 
+> GitHub enforces a rate limit per hour. If you run into this, just follow the Hardhat path shown in the next section.
+
 ### 📚 Solidity Development Environments
 
 There are multiple development environments already available for Polkadot smart contract development. Here are some of the most popular ones:
 
-- 🖥️ [**Polkadot Remix IDE**](https://docs.polkadot.com/develop/smart-contracts/dev-environments/remix/) - a web-based IDE that allows you to write, test, and deploy smart contracts directly in your browser. It's integrated with compatible chains: you can deploy right from the browser
-
-- ⚒️ [**Hardhat**](https://docs.polkadot.com/develop/smart-contracts/dev-environments/hardhat/) - a popular Ethereum development environment that can be used for Polkadot smart contract development with the help of custom plugins
+- ⭐ **[RECOMMENDED]** [**Hardhat**](https://docs.polkadot.com/develop/smart-contracts/dev-environments/hardhat/) - a popular Ethereum development environment that can be used for Polkadot smart contract development with the help of custom plugins.
 
 - 🤠 [**Foundry**](https://docs.polkadot.com/develop/smart-contracts/dev-environments/foundry/) - a smart contract development toolchain that manages your dependencies, compiles your project, runs tests, deploys, and lets you interact with the contracts.
 
