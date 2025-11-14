@@ -50,7 +50,7 @@ They typically feature wallet integration, real-time chain data display, and tra
 
 | Tool | What it's for | When should I use this? | Docs (URL) | Starter / Template (URL) | Working Example(s)  | Tutorial(s)  |
 |---|---|---|---|---|---|---|
-| **Pop! CLI** | Local blockchain development tool | Developing custom parachains or testing parachain features locally | https://onpop.io/ | [Use the pop! CLI to get started](https://github.com/r0gue-io/pop-cli) | [EduChain](https://github.com/w3f/educhain) | [Create a new parachain - pop! Tutorial](https://learn.onpop.io/chains/guides/create-a-new-parachain) |
+| **Pop! CLI** | Local blockchain development tool | Developing custom parachains or testing parachain features locally | https://onpop.io/ | [Use the pop! CLI to get started](https://github.com/r0gue-io/pop-cli) | [EduChain](https://github.com/w3f/educhain) | [Create a new parachain - pop! Tutorial](https://learn.onpop.io/chains/guides/create-a-new-chain) |
 
 ### Boilerplates & Examples
 

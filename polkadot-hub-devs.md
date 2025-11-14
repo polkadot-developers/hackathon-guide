@@ -29,6 +29,7 @@ There are multiple development environments already available for Polkadot smart
 ### 🦀 Rust Contracts
 
 Besides **Solidity**, you can also write smart contracts in Rust using **ink!** &mdash; the go-to language for Rust-based smart contract development on Polkadot. Check out the [**ink! Docs**](https://use.ink/6.x) to get started.
+ - Check out the [ink! Hackathon Guide](https://use.ink/docs/v6/sub0-hackathon-2025/).
 
 ### 👨‍💻 Contract Interaction Libraries
 
@@ -72,7 +73,7 @@ Here you can find some useful tutorials and resources to help you get started wi
 
 - 🎥 [**Deploy Rust and Solidity contracts**](https://youtu.be/TGgpG1jPxeE) – a workshop showcasing how to deploy and interact with Solidity and Rust contracts on the Polkadot Hub.
 
-- 🔄 [**ink! Ethereum Compatibility**](https://use.ink/tutorials/ethereum-compatibility/overview) — generate a **Solidity-compatible ABI** for your [**ink!**](https://use.ink/docs/v6#what-is-ink) contracts.
+- 🔄 [**ink! Ethereum Compatibility**](https://use.ink/docs/v6/solidity-interop/metamask-setup) — generate a **Solidity-compatible ABI** for your [**ink!**](https://use.ink/docs/v6#what-is-ink) contracts.
 
 - 🧩 [**Build a Frontend for an ink! dApp**](https://use.ink/tutorials/frontend-development/inkathon-erc20) — a step-by-step React/TypeScript frontend using **inkathon** to connect, read state, and send transactions to an ink! ERC-20 smart contract.
 
