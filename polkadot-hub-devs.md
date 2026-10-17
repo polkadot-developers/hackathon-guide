@@ -4,7 +4,7 @@ Polkadot enables **smart contract development** with **pallet-revive**. This all
 
 Please provide **feedback** on your experience deploying smart contracts on Polkadot using this [feedback form](https://forms.gle/BhL5ZCaFMUvSipos8).
 
-*Refer to the [**known issues**](https://docs.google.com/document/d/1j5hnQZRqlbVagW28dC24OVAF8uRih5jWubBxy5PlMYc/edit?usp=sharing) document if you're running into issues deploying contracts or using any of the tools below. If you have a new bug or problem, please raise an issue in the [Contracts Bug tracker](https://github.com/paritytech/contract-issues) on Github.*
+*If you're running into issues deploying contracts or using any of the tools below, check the [**smart contracts documentation**](https://docs.polkadot.com/develop/smart-contracts/) for guidance. Known bugs and problems are tracked in the [**Contracts Bug tracker**](https://github.com/paritytech/contract-issues), where you can also report a new issue.*
 
 ### 🚀 Quick Start with DevContainers
 
@@ -29,7 +29,7 @@ There are multiple development environments already available for Polkadot smart
 ### 🦀 Rust Contracts
 
 Besides **Solidity**, you can also write smart contracts in Rust using **ink!** &mdash; the go-to language for Rust-based smart contract development on Polkadot. Check out the [**ink! Docs**](https://use.ink/6.x) to get started.
- - Check out the [ink! Hackathon Guide](https://use.ink/docs/v6/sub0-hackathon-2025/).
+ - Check out the [ink! Hackathon Guide](https://use.ink/docs/v6/hackathon-fast-track).
 
 ### 👨‍💻 Contract Interaction Libraries
 

@@ -21,7 +21,7 @@ They typically feature wallet integration, real-time chain data display, and tra
 |---|---|---|---|---|---|---|
 | **Polkadot-API (PAPI)** | TypeScript library for making dApps or CLI tools | Building web apps with wallet integration and need full type safety | https://papi.how/ | `npx create-dot-app` (choose PAPI) or [Polkadot API TS Boilerplate](https://github.com/polkadot-developers/polkadot-api-ts-boilerplate) | [EduNews (Vue + PAPI)](https://github.com/CrackTheCode016/edunews), [Sample CLI ("You Got Mail!")](https://github.com/polkadot-developers/polkadot-api-example-cli) | [PAPI Account Watcher](https://docs.polkadot.com/tutorials/dapps/remark-tutorial/) |
 | **DeDot** | Lightweight TypeScript library for Polkadot chains | Need minimal bundle size and only basic chain interactions | [DeDot Developer Docs](https://docs.dedot.dev/)| `npx create-dot-app` (choose DeDot) | [Working Examples using DeDot](https://docs.dedot.dev/help-and-faq/built-with-dedot) | [Develop ink! dApp using Typink](https://docs.dedot.dev/help-and-faq/tutorials/develop-ink-dapp-using-typink) |
-| **Polkadot UI (beta)** | React component library for Polkadot dApps | Building polished UIs with pre-built wallet integration and chain components | https://polkadot-ui.com/docs | `npx polkadot-ui@latest list` |  | [Getting Started Guide](https://polkadot-ui.com/docs/getting-started) |
+| **Polkadot UI (beta)** | React component library for Polkadot dApps | Building polished UIs with pre-built wallet integration and chain components | https://github.com/polkadot-ui/library | `npx polkadot-ui@latest list` |  | [Getting Started Guide](https://github.com/polkadot-ui/library) |
 | **ParaSpell (XCM SDK)** | Cross-chain transfer library | Building cross-chain features without complex XCM setup | https://paraspell.github.io/docs/ | *(use within PAPI app / boilerplate)* |  |  |
 | **create-dot-app** | Project scaffolding tool | Quick project setup with modern frameworks and best practices | https://github.com/preschian/create-dot-app | `npx create-dot-app` (choose PAPI/DeDot) | [Question Board](https://0xdevcult.github.io/workshop-fun/) | *(n/a)* |
 
@@ -31,7 +31,7 @@ They typically feature wallet integration, real-time chain data display, and tra
 
 | SDK | What it's for | When should I use this? | Docs (URL) | Starter / Template (URL) | Working Example(s)  | Tutorial(s)  |
 |---|---|---|---|---|---|---|
-| **Subxt** | Rust library for Polkadot chains | Building CLI tools, backends, or performance-critical applications | https://docs.rs/subxt/latest/subxt/book | [SubXT Boilerplate](https://github.com/CrackTheCode016/polkadot-subxt-boilerplate) | [EduNews SubXT](https://github.com/CrackTheCode016/edunews-subxt) |  |
+| **Subxt** | Rust library for Polkadot chains | Building CLI tools, backends, or performance-critical applications | https://docs.rs/subxt/latest/subxt | [SubXT Boilerplate](https://github.com/CrackTheCode016/polkadot-subxt-boilerplate) | [EduNews SubXT](https://github.com/CrackTheCode016/edunews-subxt) |  |
 | **Polkadot SDK** | Framework for building blockchains | Creating your own blockchain, custom runtime logic, or parachain | https://docs.polkadot.com/ | [Parachain Template](https://github.com/paritytech/polkadot-sdk/tree/master/templates/parachain) | [EduChain](https://github.com/w3f/educhain) |  |
 
 ### REST / Data / Indexing

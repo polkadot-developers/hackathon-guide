@@ -26,7 +26,7 @@ For comprehensive information about all available support channels in Polkadot, 
 
 Here are some additional resources that can help you during the hackathon:
 
-- [**Polkadot Open Source Stack**](https://wiki.polkadot.network/general/build-open-source/) 🌟 - a list of open-source tools, libraries, and frameworks that were funded by [Web3 Foundation grants program](https://grants.web3.foundation/) and the Polkadot treasury
+- [**Polkadot Open Source Stack**](https://wiki.polkadot.network/general/build-open-source/) 🌟 - a list of open-source tools, libraries, and frameworks that were funded by [Web3 Foundation grants program](https://github.com/w3f/Grants-Program/) and the Polkadot treasury
 - [**Polkadot Ecosystem**](https://polkadotecosystem.com/#explore)
 - [**Awesome DOT Repository**](https://github.com/haquefardeen/awesome-dot) 📚 - a list of resources and projects of the Polkadot and Kusama ecosystem
 - [**Free Infrastructure Tooling**](https://blog.onfinality.io/onfinality-joins-the-polkadot-cloud-builder-party/) - OnFinality is providing free access to Polkadot Indexing, Network Prototyping, RPC Endpoints, and AI Agents infra
@@ -35,10 +35,10 @@ Here are some additional resources that can help you during the hackathon:
 
 Looking to get funding post-hackathon? Here's a list of different grant opportunities in the Polkadot:
 
-- [W3F Grants](https://grants.web3.foundation/docs/Process/how-to-apply): up to >$100k in funding
+- [W3F Grants](https://github.com/w3f/Grants-Program/): up to >$100k in funding
 - [Opensource grants](https://github.com/PolkadotOpenSourceGrants): up to $30k in funding
 - [Fast grants](https://github.com/Polkadot-Fast-Grants/apply): up to $10k in funding
 
-You can find more information on opportunities on the Web3 Foundation [Funding and Support](https://web3.foundation/funding-support) page.
+You can find more information on opportunities on the Web3 Foundation [Funding and Support](https://web3.foundation/resources-and-education/) page.
 
 To continue growing with Polkadot, apply to participate in the next [Polkadot Blockchain Academy Campus](https://polkadot.academy/pba-campus/) dApp cohort!
